@@ -1,201 +1,201 @@
 product_id,SKU,product_name,category,color,material,collection,size,cost,unit_price
-P0001,SKU-0001,Rain Jacket,Jackets,Forest Green,Canvas,Spring 2026,XS,140.71,252.52
-P0002,SKU-0002,Leather Belt,Accessories,Cream,Recycled Fabric,Spring 2026,One Size,41.67,67.87
-P0003,SKU-0003,Jogger Sweatpants,Sweats,Burgundy,Cotton,Summer 2025,XS,45.88,85.97
-P0004,SKU-0004,Zip Wallet,Wallets,Forest Green,Leather,Winter 2025,One Size,47.76,114.53
-P0005,SKU-0005,Crossbody Bag,Bags,Olive,Recycled Fabric,Winter 2025,One Size,79.97,136.28
-P0006,SKU-0006,Performance T-Shirt,Activewear,Black,Recycled Fabric,Fall 2025,XXS,58.26,95.07
-P0007,SKU-0007,Jogger Sweatpants,Sweats,Grey,Cotton,Fall 2025,S,66.31,101.47
-P0008,SKU-0008,Puffer Jacket,Jackets,Cream,Recycled Fabric,Spring 2025,L,232.16,353.42
-P0009,SKU-0009,Leather Satchel,Bags,Dusty Pink,Canvas,Summer 2025,One Size,215.72,319.97
-P0010,SKU-0010,Jogger Sweatpants,Sweats,Cream,Wool,Spring 2026,XL,62.14,89.7
-P0011,SKU-0011,Leather Backpack,Bags,Forest Green,Leather,Winter 2025,One Size,168.61,310.66
-P0012,SKU-0012,Zip Hoodie,Sweats,Dusty Pink,Cotton,Winter 2025,S,37.8,70.75
-P0013,SKU-0013,Baseball Cap,Accessories,Cream,Recycled Fabric,Winter 2025,One Size,29.59,59.18
-P0014,SKU-0014,Knit Scarf,Accessories,Brown,Recycled Fabric,Spring 2026,One Size,34.15,50.23
-P0015,SKU-0015,Knit Scarf,Accessories,Forest Green,Canvas,Summer 2025,One Size,13.0,24.19
-P0016,SKU-0016,Sports Bra,Activewear,Cream,Leather,Summer 2025,L,40.63,87.17
-P0017,SKU-0017,Denim Jacket,Jackets,Brown,Recycled Fabric,Spring 2026,L,99.39,212.94
-P0018,SKU-0018,Bomber Jacket,Jackets,Sage Green,Polyester,Summer 2025,L,110.12,248.96
-P0019,SKU-0019,Training Hoodie,Activewear,Forest Green,Cotton,Spring 2025,XS,59.85,108.06
-P0020,SKU-0020,Quilted Jacket,Jackets,Grey,Polyester,Winter 2025,M,191.77,411.09
-P0021,SKU-0021,Rain Jacket,Jackets,White,Cotton,Winter 2025,XL,259.34,440.28
-P0022,SKU-0022,Training Hoodie,Activewear,Tan,Recycled Fabric,Spring 2025,M,65.01,97.07
-P0023,SKU-0023,Leather Satchel,Bags,Burgundy,Wool,Spring 2026,One Size,82.98,188.51
-P0024,SKU-0024,Quilted Jacket,Jackets,Dusty Pink,Wool,Spring 2026,XS,192.69,387.93
-P0025,SKU-0025,Performance T-Shirt,Activewear,Black,Polyester,Winter 2025,S,47.72,72.12
-P0026,SKU-0026,Coin Purse,Wallets,Olive,Wool,Spring 2025,One Size,43.38,86.7
-P0027,SKU-0027,Baseball Cap,Accessories,Sage Green,Recycled Fabric,Fall 2025,One Size,28.88,50.12
-P0028,SKU-0028,Denim Jacket,Jackets,Sage Green,Recycled Fabric,Fall 2025,XS,207.85,339.77
-P0029,SKU-0029,Relaxed Sweatpants,Sweats,Forest Green,Recycled Fabric,Spring 2025,XS,68.58,100.69
-P0030,SKU-0030,Coin Purse,Wallets,Forest Green,Wool,Fall 2025,One Size,47.6,105.09
-P0031,SKU-0031,Crewneck Sweatshirt,Sweats,White,Cotton,Fall 2025,S,56.98,89.55
-P0032,SKU-0032,Keychain,Accessories,Forest Green,Wool,Spring 2026,One Size,14.57,26.29
-P0033,SKU-0033,Running Jacket,Activewear,Grey,Wool,Spring 2025,M,61.7,105.04
-P0034,SKU-0034,Card Holder,Wallets,Burgundy,Leather,Fall 2025,One Size,27.17,51.92
-P0035,SKU-0035,Leather Gloves,Accessories,Lavender,Wool,Winter 2025,One Size,12.58,20.19
-P0036,SKU-0036,Training Hoodie,Activewear,Tan,Polyester,Spring 2026,L,57.84,109.15
-P0037,SKU-0037,Crossbody Bag,Bags,Navy,Leather,Fall 2025,One Size,136.25,274.8
-P0038,SKU-0038,Baseball Cap,Accessories,Olive,Wool,Winter 2025,One Size,43.35,67.59
-P0039,SKU-0039,Card Holder,Wallets,Cream,Leather,Winter 2025,One Size,49.77,119.31
-P0040,SKU-0040,Card Holder,Wallets,Tan,Leather,Winter 2025,One Size,34.23,72.26
-P0041,SKU-0041,Puffer Jacket,Jackets,Cream,Canvas,Summer 2025,M,184.97,325.61
-P0042,SKU-0042,Knit Scarf,Accessories,Navy,Cotton,Fall 2025,One Size,16.92,35.09
-P0043,SKU-0043,Performance T-Shirt,Activewear,Olive,Canvas,Fall 2025,XXS,54.05,117.34
-P0044,SKU-0044,Relaxed Sweatpants,Sweats,Cream,Wool,Fall 2025,XS,86.82,132.65
-P0045,SKU-0045,Keychain,Accessories,Burgundy,Recycled Fabric,Fall 2025,One Size,15.23,28.52
-P0046,SKU-0046,Leather Satchel,Bags,Tan,Canvas,Spring 2025,One Size,198.77,333.75
-P0047,SKU-0047,Bomber Jacket,Jackets,Burgundy,Recycled Fabric,Fall 2025,M,99.99,224.97
-P0048,SKU-0048,Leather Jacket,Jackets,Black,Leather,Summer 2025,L,186.58,343.41
-P0049,SKU-0049,Fleece Hoodie,Sweats,Dusty Pink,Leather,Fall 2025,M,43.55,82.89
-P0050,SKU-0050,Zip Wallet,Wallets,Forest Green,Leather,Winter 2025,One Size,24.7,56.83
-P0051,SKU-0051,Bifold Wallet,Wallets,Sage Green,Leather,Winter 2025,One Size,27.17,55.83
-P0052,SKU-0052,Zip Hoodie,Sweats,Dusty Pink,Wool,Fall 2025,XS,39.08,88.86
-P0053,SKU-0053,Leather Gloves,Accessories,Black,Cotton,Fall 2025,One Size,33.46,77.03
-P0054,SKU-0054,Crossbody Bag,Bags,Black,Wool,Winter 2025,One Size,186.27,285.84
-P0055,SKU-0055,Rain Jacket,Jackets,Black,Polyester,Spring 2026,XL,96.22,230.06
-P0056,SKU-0056,Performance T-Shirt,Activewear,Navy,Canvas,Spring 2025,XS,47.95,86.07
-P0057,SKU-0057,Training Hoodie,Activewear,Grey,Wool,Spring 2026,XS,26.87,60.06
-P0058,SKU-0058,Performance Leggings,Activewear,Forest Green,Leather,Summer 2025,XS,35.08,77.78
-P0059,SKU-0059,Leather Backpack,Bags,White,Polyester,Spring 2025,One Size,139.34,317.08
-P0060,SKU-0060,Training Shorts,Activewear,Lavender,Polyester,Summer 2025,XL,40.08,78.52
-P0061,SKU-0061,Leather Gloves,Accessories,Tan,Leather,Spring 2026,One Size,10.75,23.56
-P0062,SKU-0062,Wool Beanie,Accessories,Grey,Polyester,Summer 2025,One Size,46.02,74.47
-P0063,SKU-0063,Denim Jacket,Jackets,Forest Green,Cotton,Summer 2025,M,76.34,190.7
-P0064,SKU-0064,Relaxed Sweatpants,Sweats,Dusty Pink,Cotton,Fall 2025,XXS,73.67,113.44
-P0065,SKU-0065,Weekender Duffel,Bags,Cream,Leather,Summer 2025,One Size,126.58,211.51
-P0066,SKU-0066,Wool Beanie,Accessories,Grey,Polyester,Summer 2025,One Size,33.97,53.21
-P0067,SKU-0067,Crossbody Bag,Bags,Cream,Canvas,Summer 2025,One Size,67.67,126.24
-P0068,SKU-0068,Denim Jacket,Jackets,Cream,Canvas,Fall 2025,L,125.05,190.39
-P0069,SKU-0069,Pullover Hoodie,Sweats,Olive,Recycled Fabric,Winter 2025,XXS,49.34,90.97
-P0070,SKU-0070,Travel Wallet,Wallets,Cream,Cotton,Spring 2025,One Size,33.28,70.68
-P0071,SKU-0071,Baseball Cap,Accessories,Grey,Wool,Fall 2025,One Size,24.28,60.33
-P0072,SKU-0072,Bifold Wallet,Wallets,Cream,Canvas,Spring 2025,One Size,30.38,63.8
-P0073,SKU-0073,Keychain,Accessories,Cream,Wool,Fall 2025,One Size,42.2,79.35
-P0074,SKU-0074,Wool Beanie,Accessories,Black,Canvas,Summer 2025,One Size,18.29,33.61
-P0075,SKU-0075,Passport Wallet,Wallets,Sage Green,Leather,Spring 2026,One Size,25.43,49.05
-P0076,SKU-0076,Mini Backpack,Bags,Brown,Leather,Fall 2025,One Size,117.81,232.89
-P0077,SKU-0077,Rain Jacket,Jackets,Dusty Pink,Wool,Spring 2026,XS,219.61,317.47
-P0078,SKU-0078,Training Shorts,Activewear,Sage Green,Wool,Summer 2025,M,57.32,97.68
-P0079,SKU-0079,Zip Wallet,Wallets,Burgundy,Leather,Spring 2026,One Size,48.52,115.14
-P0080,SKU-0080,Baseball Cap,Accessories,White,Cotton,Fall 2025,One Size,19.1,40.19
-P0081,SKU-0081,Sports Bra,Activewear,Lavender,Canvas,Winter 2025,XS,60.68,107.65
-P0082,SKU-0082,Baseball Cap,Accessories,Brown,Cotton,Spring 2026,One Size,37.68,68.65
-P0083,SKU-0083,Zip Hoodie,Sweats,Olive,Wool,Spring 2026,M,54.7,92.72
-P0084,SKU-0084,Zip Hoodie,Sweats,Sage Green,Wool,Spring 2025,L,43.04,86.69
-P0085,SKU-0085,Jogger Sweatpants,Sweats,Lavender,Recycled Fabric,Winter 2025,M,62.33,129.03
-P0086,SKU-0086,Zip Wallet,Wallets,Navy,Recycled Fabric,Summer 2025,One Size,43.7,99.62
-P0087,SKU-0087,Bomber Jacket,Jackets,Olive,Wool,Spring 2026,XL,169.24,361.32
-P0088,SKU-0088,Bifold Wallet,Wallets,Brown,Polyester,Summer 2025,One Size,27.16,43.25
-P0089,SKU-0089,Leather Jacket,Jackets,Navy,Polyester,Fall 2025,XL,222.27,388.59
-P0090,SKU-0090,Performance T-Shirt,Activewear,Sage Green,Canvas,Summer 2025,L,61.96,109.63
-P0091,SKU-0091,Training Hoodie,Activewear,Sage Green,Wool,Fall 2025,XS,44.4,106.64
-P0092,SKU-0092,Relaxed Sweatpants,Sweats,Tan,Cotton,Summer 2025,S,41.37,70.6
-P0093,SKU-0093,Jogger Sweatpants,Sweats,Brown,Polyester,Spring 2025,XL,49.07,115.64
-P0094,SKU-0094,Crewneck Sweatshirt,Sweats,Navy,Wool,Spring 2025,XL,46.98,116.42
-P0095,SKU-0095,Jogger Sweatpants,Sweats,White,Polyester,Spring 2025,XS,73.97,120.29
-P0096,SKU-0096,Training Hoodie,Activewear,Brown,Polyester,Fall 2025,XL,23.88,50.25
-P0097,SKU-0097,Performance Leggings,Activewear,Dusty Pink,Leather,Summer 2025,L,39.73,76.07
-P0098,SKU-0098,Keychain,Accessories,Lavender,Leather,Winter 2025,One Size,12.02,24.21
-P0099,SKU-0099,Denim Jacket,Jackets,Navy,Leather,Winter 2025,XS,235.27,432.18
-P0100,SKU-0100,Pullover Hoodie,Sweats,Burgundy,Canvas,Fall 2025,XS,62.7,99.77
-P0101,SKU-0101,Weekender Duffel,Bags,Forest Green,Cotton,Winter 2025,One Size,85.33,160.23
-P0102,SKU-0102,Knit Scarf,Accessories,Grey,Recycled Fabric,Winter 2025,One Size,33.89,80.82
-P0103,SKU-0103,Crewneck Sweatshirt,Sweats,Sage Green,Wool,Fall 2025,M,69.49,131.38
-P0104,SKU-0104,Leather Backpack,Bags,Brown,Recycled Fabric,Winter 2025,One Size,201.85,301.49
-P0105,SKU-0105,Training Shorts,Activewear,Lavender,Wool,Spring 2025,XL,73.8,118.23
-P0106,SKU-0106,Pullover Hoodie,Sweats,Navy,Polyester,Spring 2026,M,60.44,136.17
-P0107,SKU-0107,Crewneck Sweatshirt,Sweats,Sage Green,Cotton,Fall 2025,M,53.33,131.79
-P0108,SKU-0108,Passport Wallet,Wallets,Sage Green,Recycled Fabric,Winter 2025,One Size,27.7,49.69
-P0109,SKU-0109,Passport Wallet,Wallets,Black,Polyester,Spring 2026,One Size,29.35,45.28
-P0110,SKU-0110,Mini Backpack,Bags,White,Recycled Fabric,Spring 2025,One Size,160.78,244.16
-P0111,SKU-0111,Relaxed Sweatpants,Sweats,Dusty Pink,Cotton,Fall 2025,XS,84.44,121.22
-P0112,SKU-0112,Wool Beanie,Accessories,Brown,Canvas,Summer 2025,One Size,19.27,43.07
-P0113,SKU-0113,Zip Wallet,Wallets,Black,Canvas,Winter 2025,One Size,46.36,76.35
-P0114,SKU-0114,Baseball Cap,Accessories,Cream,Polyester,Summer 2025,One Size,24.83,43.68
-P0115,SKU-0115,Fleece Hoodie,Sweats,Black,Leather,Spring 2025,XXS,45.8,98.98
-P0116,SKU-0116,Jogger Sweatpants,Sweats,Forest Green,Canvas,Winter 2025,XL,49.34,95.61
-P0117,SKU-0117,Relaxed Sweatpants,Sweats,Olive,Wool,Fall 2025,M,43.1,87.12
-P0118,SKU-0118,Relaxed Sweatpants,Sweats,Cream,Recycled Fabric,Winter 2025,L,41.89,92.64
-P0119,SKU-0119,Travel Wallet,Wallets,Dusty Pink,Leather,Summer 2025,One Size,68.07,101.79
-P0120,SKU-0120,Performance T-Shirt,Activewear,Tan,Wool,Spring 2026,XL,28.94,61.61
-P0121,SKU-0121,Baseball Cap,Accessories,Brown,Cotton,Winter 2025,One Size,35.67,87.53
-P0122,SKU-0122,Training Shorts,Activewear,Forest Green,Leather,Winter 2025,XL,46.52,84.59
-P0123,SKU-0123,Bomber Jacket,Jackets,Dusty Pink,Leather,Winter 2025,M,137.89,247.56
-P0124,SKU-0124,Card Holder,Wallets,Tan,Leather,Spring 2026,One Size,26.93,44.35
-P0125,SKU-0125,Bomber Jacket,Jackets,Navy,Polyester,Winter 2025,XL,139.56,337.78
-P0126,SKU-0126,Bifold Wallet,Wallets,Black,Canvas,Spring 2026,One Size,33.5,72.12
-P0127,SKU-0127,Mini Backpack,Bags,Olive,Polyester,Fall 2025,One Size,137.24,310.2
-P0128,SKU-0128,Zip Hoodie,Sweats,Brown,Cotton,Fall 2025,L,74.35,112.01
-P0129,SKU-0129,Running Jacket,Activewear,Black,Leather,Winter 2025,XL,51.52,109.61
-P0130,SKU-0130,Denim Jacket,Jackets,Dusty Pink,Polyester,Spring 2026,L,120.18,240.6
-P0131,SKU-0131,Wool Beanie,Accessories,Lavender,Recycled Fabric,Spring 2026,One Size,21.5,33.04
-P0132,SKU-0132,Performance T-Shirt,Activewear,Brown,Canvas,Winter 2025,XS,55.5,99.75
-P0133,SKU-0133,Zip Hoodie,Sweats,Tan,Cotton,Fall 2025,XS,55.8,91.98
-P0134,SKU-0134,Leather Backpack,Bags,Tan,Canvas,Spring 2025,One Size,131.55,274.37
-P0135,SKU-0135,Sports Bra,Activewear,Black,Polyester,Summer 2025,XXS,27.17,64.87
-P0136,SKU-0136,Pullover Hoodie,Sweats,Cream,Recycled Fabric,Winter 2025,XS,58.29,104.08
-P0137,SKU-0137,Mini Backpack,Bags,Brown,Recycled Fabric,Winter 2025,One Size,109.19,156.1
-P0138,SKU-0138,Bifold Wallet,Wallets,White,Canvas,Winter 2025,One Size,31.86,67.31
-P0139,SKU-0139,Bomber Jacket,Jackets,Burgundy,Cotton,Spring 2026,XS,171.9,374.23
-P0140,SKU-0140,Running Jacket,Activewear,Cream,Canvas,Winter 2025,XL,33.66,62.5
-P0141,SKU-0141,Crewneck Sweatshirt,Sweats,Olive,Leather,Spring 2026,XL,68.59,106.26
-P0142,SKU-0142,Performance T-Shirt,Activewear,Burgundy,Cotton,Spring 2026,L,57.69,84.3
-P0143,SKU-0143,Fleece Hoodie,Sweats,Dusty Pink,Wool,Summer 2025,S,48.34,78.77
-P0144,SKU-0144,Performance T-Shirt,Activewear,Olive,Cotton,Winter 2025,XL,32.49,53.9
-P0145,SKU-0145,Denim Jacket,Jackets,Burgundy,Recycled Fabric,Spring 2025,M,92.72,218.71
-P0146,SKU-0146,Puffer Jacket,Jackets,Grey,Polyester,Spring 2025,L,247.88,399.3
-P0147,SKU-0147,Sports Bra,Activewear,Olive,Recycled Fabric,Winter 2025,S,24.35,51.6
-P0148,SKU-0148,Leather Jacket,Jackets,Brown,Wool,Spring 2025,L,153.86,296.82
-P0149,SKU-0149,Leather Backpack,Bags,Grey,Cotton,Spring 2025,One Size,85.95,170.13
-P0150,SKU-0150,Relaxed Sweatpants,Sweats,Cream,Leather,Spring 2026,XL,55.27,87.34
-P0151,SKU-0151,Mini Backpack,Bags,Tan,Wool,Fall 2025,One Size,151.06,258.73
-P0152,SKU-0152,Baseball Cap,Accessories,Tan,Leather,Winter 2025,One Size,45.63,79.06
-P0153,SKU-0153,Jogger Sweatpants,Sweats,White,Cotton,Summer 2025,XXS,48.73,110.62
-P0154,SKU-0154,Training Shorts,Activewear,Cream,Cotton,Spring 2025,XXS,51.03,93.74
-P0155,SKU-0155,Jogger Sweatpants,Sweats,Lavender,Recycled Fabric,Winter 2025,S,60.98,107.46
-P0156,SKU-0156,Crewneck Sweatshirt,Sweats,Dusty Pink,Wool,Spring 2026,M,49.11,83.09
-P0157,SKU-0157,Leather Satchel,Bags,Brown,Recycled Fabric,Spring 2026,One Size,134.95,212.58
-P0158,SKU-0158,Crewneck Sweatshirt,Sweats,Sage Green,Canvas,Spring 2025,XL,86.81,126.53
-P0159,SKU-0159,Bomber Jacket,Jackets,Tan,Wool,Summer 2025,XS,136.24,232.55
-P0160,SKU-0160,Fleece Hoodie,Sweats,White,Polyester,Winter 2025,M,72.25,104.3
-P0161,SKU-0161,Weekender Duffel,Bags,Grey,Wool,Spring 2026,One Size,216.36,348.26
-P0162,SKU-0162,Leather Backpack,Bags,Burgundy,Canvas,Spring 2025,One Size,126.69,283.67
-P0163,SKU-0163,Crossbody Bag,Bags,White,Leather,Fall 2025,One Size,143.7,205.58
-P0164,SKU-0164,Training Shorts,Activewear,Sage Green,Polyester,Fall 2025,XL,29.37,60.67
-P0165,SKU-0165,Leather Satchel,Bags,Dusty Pink,Recycled Fabric,Spring 2026,One Size,123.88,201.82
-P0166,SKU-0166,Wool Beanie,Accessories,Brown,Cotton,Winter 2025,One Size,34.86,76.99
-P0167,SKU-0167,Bomber Jacket,Jackets,Olive,Wool,Spring 2025,M,162.56,235.71
-P0168,SKU-0168,Denim Jacket,Jackets,Navy,Wool,Summer 2025,XS,196.32,297.05
-P0169,SKU-0169,Sports Bra,Activewear,Olive,Wool,Winter 2025,XXS,35.6,51.84
-P0170,SKU-0170,Knit Scarf,Accessories,Burgundy,Leather,Spring 2026,One Size,37.23,65.89
-P0171,SKU-0171,Relaxed Sweatpants,Sweats,Dusty Pink,Polyester,Winter 2025,M,59.77,105.98
-P0172,SKU-0172,Training Hoodie,Activewear,Lavender,Recycled Fabric,Winter 2025,XS,73.92,117.93
-P0173,SKU-0173,Performance T-Shirt,Activewear,White,Leather,Spring 2025,M,41.59,68.79
-P0174,SKU-0174,Pullover Hoodie,Sweats,Cream,Leather,Summer 2025,XS,51.23,116.05
-P0175,SKU-0175,Baseball Cap,Accessories,Sage Green,Canvas,Fall 2025,One Size,15.86,33.33
-P0176,SKU-0176,Zip Wallet,Wallets,Dusty Pink,Leather,Spring 2025,One Size,39.11,90.62
-P0177,SKU-0177,Performance T-Shirt,Activewear,Olive,Canvas,Summer 2025,M,26.33,58.57
-P0178,SKU-0178,Knit Scarf,Accessories,White,Leather,Summer 2025,One Size,17.39,39.01
-P0179,SKU-0179,Card Holder,Wallets,Grey,Cotton,Fall 2025,One Size,53.75,94.97
-P0180,SKU-0180,Leather Satchel,Bags,Lavender,Leather,Winter 2025,One Size,95.23,202.93
-P0181,SKU-0181,Mini Backpack,Bags,Tan,Leather,Spring 2025,One Size,72.46,125.08
-P0182,SKU-0182,Leather Jacket,Jackets,Lavender,Canvas,Summer 2025,S,145.97,321.7
-P0183,SKU-0183,Zip Hoodie,Sweats,Sage Green,Canvas,Spring 2026,M,50.28,124.0
-P0184,SKU-0184,Training Shorts,Activewear,Black,Wool,Winter 2025,M,28.57,55.22
-P0185,SKU-0185,Baseball Cap,Accessories,Dusty Pink,Cotton,Summer 2025,One Size,23.61,36.32
-P0186,SKU-0186,Performance Leggings,Activewear,Forest Green,Wool,Fall 2025,XXS,45.23,73.29
-P0187,SKU-0187,Rain Jacket,Jackets,Black,Polyester,Spring 2025,XL,256.64,449.16
-P0188,SKU-0188,Rain Jacket,Jackets,White,Wool,Summer 2025,XS,173.1,259.63
-P0189,SKU-0189,Training Shorts,Activewear,Burgundy,Wool,Spring 2025,S,27.35,63.81
-P0190,SKU-0190,Fleece Hoodie,Sweats,Grey,Leather,Winter 2025,S,53.84,84.28
-P0191,SKU-0191,Canvas Tote,Bags,Sage Green,Cotton,Winter 2025,One Size,59.75,137.18
-P0192,SKU-0192,Knit Scarf,Accessories,Sage Green,Polyester,Winter 2025,One Size,38.66,67.37
-P0193,SKU-0193,Card Holder,Wallets,Cream,Recycled Fabric,Spring 2025,One Size,25.8,50.95
-P0194,SKU-0194,Sports Bra,Activewear,Sage Green,Canvas,Fall 2025,XL,62.47,119.63
-P0195,SKU-0195,Rain Jacket,Jackets,Cream,Polyester,Fall 2025,XL,187.9,446.26
-P0196,SKU-0196,Denim Jacket,Jackets,Sage Green,Wool,Spring 2025,L,158.94,373.52
-P0197,SKU-0197,Leather Jacket,Jackets,Tan,Canvas,Spring 2025,M,174.95,354.91
-P0198,SKU-0198,Keychain,Accessories,Brown,Wool,Fall 2025,One Size,13.28,30.64
-P0199,SKU-0199,Mini Backpack,Bags,Navy,Leather,Summer 2025,One Size,119.84,205.11
-P0200,SKU-0200,Training Shorts,Activewear,Dusty Pink,Cotton,Fall 2025,XXS,67.03,102.86
+P0001,SKU-0001,Denim Jacket,Jackets,Sage Green,Leather,Spring 2025,S,134.99,205.63
+P0002,SKU-0002,Training Hoodie,Activewear,Lavender,Canvas,Winter 2025,XL,44.94,91.67
+P0003,SKU-0003,Denim Jacket,Jackets,Sage Green,Leather,Fall 2025,L,162.29,251.79
+P0004,SKU-0004,Leather Satchel,Bags,Olive,Canvas,Spring 2025,One Size,170.58,289.27
+P0005,SKU-0005,Leather Satchel,Bags,Olive,Cotton,Summer 2025,One Size,179.71,283.06
+P0006,SKU-0006,Sports Bra,Activewear,Brown,Cotton,Fall 2025,XL,32.99,64.76
+P0007,SKU-0007,Denim Jacket,Jackets,Burgundy,Leather,Spring 2025,S,205.92,360.51
+P0008,SKU-0008,Card Holder,Wallets,Olive,Cotton,Winter 2025,One Size,51.98,76.87
+P0009,SKU-0009,Leather Satchel,Bags,White,Canvas,Fall 2025,One Size,110.24,220.03
+P0010,SKU-0010,Keychain,Accessories,Lavender,Cotton,Fall 2025,One Size,26.55,48.48
+P0011,SKU-0011,Leather Jacket,Jackets,Forest Green,Cotton,Summer 2025,L,181.3,332.11
+P0012,SKU-0012,Knit Scarf,Accessories,Burgundy,Leather,Spring 2026,One Size,19.62,45.12
+P0013,SKU-0013,Puffer Jacket,Jackets,White,Wool,Spring 2026,XS,105.57,204.47
+P0014,SKU-0014,Leather Satchel,Bags,Cream,Cotton,Spring 2025,One Size,84.65,160.43
+P0015,SKU-0015,Zip Wallet,Wallets,Cream,Canvas,Spring 2025,One Size,49.76,75.36
+P0016,SKU-0016,Performance Leggings,Activewear,Sage Green,Recycled Fabric,Fall 2025,XXS,44.73,75.2
+P0017,SKU-0017,Leather Belt,Accessories,Olive,Recycled Fabric,Spring 2025,One Size,21.07,48.14
+P0018,SKU-0018,Denim Jacket,Jackets,Olive,Cotton,Winter 2025,S,252.08,368.51
+P0019,SKU-0019,Performance Leggings,Activewear,White,Canvas,Fall 2025,XS,44.84,67.31
+P0020,SKU-0020,Bomber Jacket,Jackets,Grey,Wool,Summer 2025,S,142.04,244.35
+P0021,SKU-0021,Performance Leggings,Activewear,Cream,Cotton,Winter 2025,M,59.25,115.8
+P0022,SKU-0022,Training Shorts,Activewear,Black,Polyester,Fall 2025,XL,66.34,111.65
+P0023,SKU-0023,Leather Backpack,Bags,Burgundy,Wool,Spring 2026,One Size,135.77,260.5
+P0024,SKU-0024,Zip Wallet,Wallets,Burgundy,Recycled Fabric,Winter 2025,One Size,36.67,81.07
+P0025,SKU-0025,Running Jacket,Activewear,Olive,Polyester,Fall 2025,M,53.61,83.25
+P0026,SKU-0026,Weekender Duffel,Bags,Forest Green,Canvas,Summer 2025,One Size,76.5,120.5
+P0027,SKU-0027,Knit Scarf,Accessories,Cream,Polyester,Summer 2025,One Size,20.08,38.79
+P0028,SKU-0028,Zip Wallet,Wallets,Black,Leather,Fall 2025,One Size,22.83,46.28
+P0029,SKU-0029,Fleece Hoodie,Sweats,Tan,Recycled Fabric,Spring 2026,L,92.53,137.48
+P0030,SKU-0030,Zip Wallet,Wallets,Burgundy,Canvas,Fall 2025,One Size,19.37,45.34
+P0031,SKU-0031,Card Holder,Wallets,Black,Cotton,Spring 2026,One Size,38.35,88.15
+P0032,SKU-0032,Training Hoodie,Activewear,Olive,Cotton,Fall 2025,S,56.22,98.45
+P0033,SKU-0033,Coin Purse,Wallets,Forest Green,Wool,Spring 2025,One Size,35.21,69.13
+P0034,SKU-0034,Bifold Wallet,Wallets,Brown,Cotton,Summer 2025,One Size,65.46,118.3
+P0035,SKU-0035,Knit Scarf,Accessories,Grey,Wool,Summer 2025,One Size,27.52,46.2
+P0036,SKU-0036,Training Hoodie,Activewear,Tan,Wool,Winter 2025,S,57.42,117.88
+P0037,SKU-0037,Crossbody Bag,Bags,Burgundy,Recycled Fabric,Winter 2025,One Size,73.25,163.56
+P0038,SKU-0038,Baseball Cap,Accessories,Sage Green,Polyester,Fall 2025,One Size,33.9,68.52
+P0039,SKU-0039,Mini Backpack,Bags,Tan,Cotton,Fall 2025,One Size,187.4,281.89
+P0040,SKU-0040,Training Hoodie,Activewear,Brown,Polyester,Winter 2025,M,32.61,73.43
+P0041,SKU-0041,Canvas Tote,Bags,Burgundy,Polyester,Spring 2026,One Size,184.18,329.52
+P0042,SKU-0042,Coin Purse,Wallets,Olive,Canvas,Summer 2025,One Size,54.01,84.32
+P0043,SKU-0043,Wool Beanie,Accessories,Sage Green,Cotton,Fall 2025,One Size,30.53,62.64
+P0044,SKU-0044,Fleece Hoodie,Sweats,Olive,Canvas,Spring 2025,S,39.95,83.65
+P0045,SKU-0045,Knit Scarf,Accessories,Sage Green,Cotton,Spring 2025,One Size,28.95,55.08
+P0046,SKU-0046,Passport Wallet,Wallets,Olive,Wool,Spring 2026,One Size,58.02,93.66
+P0047,SKU-0047,Leather Satchel,Bags,Navy,Polyester,Winter 2025,One Size,197.69,308.95
+P0048,SKU-0048,Wool Beanie,Accessories,White,Canvas,Fall 2025,One Size,10.77,22.94
+P0049,SKU-0049,Leather Backpack,Bags,Sage Green,Leather,Fall 2025,One Size,116.45,210.17
+P0050,SKU-0050,Sports Bra,Activewear,Forest Green,Polyester,Winter 2025,XL,80.55,115.95
+P0051,SKU-0051,Crewneck Sweatshirt,Sweats,Lavender,Cotton,Spring 2025,S,95.67,136.99
+P0052,SKU-0052,Sports Bra,Activewear,Grey,Canvas,Winter 2025,M,46.96,81.47
+P0053,SKU-0053,Coin Purse,Wallets,Brown,Cotton,Winter 2025,One Size,40.38,89.14
+P0054,SKU-0054,Wool Beanie,Accessories,Burgundy,Wool,Winter 2025,One Size,13.11,31.28
+P0055,SKU-0055,Running Jacket,Activewear,Black,Leather,Spring 2025,M,44.74,99.52
+P0056,SKU-0056,Canvas Tote,Bags,Navy,Cotton,Summer 2025,One Size,99.94,175.19
+P0057,SKU-0057,Quilted Jacket,Jackets,Forest Green,Leather,Winter 2025,XL,278.68,429.62
+P0058,SKU-0058,Denim Jacket,Jackets,Navy,Canvas,Summer 2025,XS,211.45,390.27
+P0059,SKU-0059,Leather Backpack,Bags,Burgundy,Leather,Summer 2025,One Size,83.72,193.41
+P0060,SKU-0060,Jogger Sweatpants,Sweats,Olive,Canvas,Spring 2026,L,41.11,71.75
+P0061,SKU-0061,Training Shorts,Activewear,Burgundy,Cotton,Summer 2025,S,38.61,68.73
+P0062,SKU-0062,Leather Belt,Accessories,Cream,Wool,Fall 2025,One Size,48.15,71.74
+P0063,SKU-0063,Performance Leggings,Activewear,Brown,Wool,Winter 2025,XXS,52.63,104.03
+P0064,SKU-0064,Performance T-Shirt,Activewear,Dusty Pink,Leather,Summer 2025,XL,48.53,105.72
+P0065,SKU-0065,Training Shorts,Activewear,Forest Green,Leather,Fall 2025,S,54.0,107.74
+P0066,SKU-0066,Travel Wallet,Wallets,Forest Green,Leather,Spring 2025,One Size,38.17,55.48
+P0067,SKU-0067,Leather Jacket,Jackets,Navy,Leather,Spring 2025,L,167.05,337.1
+P0068,SKU-0068,Bifold Wallet,Wallets,Grey,Canvas,Spring 2025,One Size,39.62,67.6
+P0069,SKU-0069,Keychain,Accessories,Burgundy,Polyester,Winter 2025,One Size,17.69,31.34
+P0070,SKU-0070,Pullover Hoodie,Sweats,Lavender,Cotton,Spring 2025,XS,43.58,104.08
+P0071,SKU-0071,Zip Wallet,Wallets,Black,Recycled Fabric,Fall 2025,One Size,48.49,108.8
+P0072,SKU-0072,Zip Hoodie,Sweats,Navy,Cotton,Summer 2025,M,89.37,138.56
+P0073,SKU-0073,Training Hoodie,Activewear,White,Recycled Fabric,Spring 2026,M,64.26,112.77
+P0074,SKU-0074,Keychain,Accessories,Burgundy,Canvas,Spring 2026,One Size,44.53,68.57
+P0075,SKU-0075,Card Holder,Wallets,Navy,Leather,Fall 2025,One Size,44.03,101.68
+P0076,SKU-0076,Zip Wallet,Wallets,Olive,Canvas,Fall 2025,One Size,38.92,79.1
+P0077,SKU-0077,Travel Wallet,Wallets,Cream,Recycled Fabric,Fall 2025,One Size,38.24,59.39
+P0078,SKU-0078,Knit Scarf,Accessories,Sage Green,Cotton,Summer 2025,One Size,43.66,78.12
+P0079,SKU-0079,Relaxed Sweatpants,Sweats,Dusty Pink,Leather,Spring 2025,XS,76.76,116.9
+P0080,SKU-0080,Leather Backpack,Bags,Black,Polyester,Fall 2025,One Size,153.75,282.38
+P0081,SKU-0081,Fleece Hoodie,Sweats,Sage Green,Leather,Spring 2025,XL,46.01,78.99
+P0082,SKU-0082,Zip Wallet,Wallets,Burgundy,Wool,Fall 2025,One Size,58.72,108.55
+P0083,SKU-0083,Crewneck Sweatshirt,Sweats,Dusty Pink,Canvas,Fall 2025,XS,58.67,97.42
+P0084,SKU-0084,Crewneck Sweatshirt,Sweats,Forest Green,Leather,Summer 2025,M,44.66,100.61
+P0085,SKU-0085,Training Shorts,Activewear,Forest Green,Canvas,Fall 2025,XXS,52.03,82.19
+P0086,SKU-0086,Keychain,Accessories,Dusty Pink,Canvas,Fall 2025,One Size,32.6,69.43
+P0087,SKU-0087,Running Jacket,Activewear,Grey,Wool,Spring 2026,XXS,43.01,76.86
+P0088,SKU-0088,Zip Wallet,Wallets,Brown,Wool,Spring 2026,One Size,63.36,107.19
+P0089,SKU-0089,Canvas Tote,Bags,Forest Green,Wool,Winter 2025,One Size,56.28,137.76
+P0090,SKU-0090,Performance Leggings,Activewear,Black,Wool,Fall 2025,XXS,49.05,105.69
+P0091,SKU-0091,Wool Beanie,Accessories,Navy,Polyester,Winter 2025,One Size,26.44,53.61
+P0092,SKU-0092,Leather Backpack,Bags,Black,Polyester,Winter 2025,One Size,170.54,251.54
+P0093,SKU-0093,Crossbody Bag,Bags,Navy,Cotton,Spring 2025,One Size,75.94,133.0
+P0094,SKU-0094,Jogger Sweatpants,Sweats,Tan,Recycled Fabric,Summer 2025,XL,34.7,76.44
+P0095,SKU-0095,Leather Satchel,Bags,Brown,Leather,Fall 2025,One Size,139.51,300.44
+P0096,SKU-0096,Travel Wallet,Wallets,Lavender,Leather,Spring 2026,One Size,35.78,65.44
+P0097,SKU-0097,Baseball Cap,Accessories,Lavender,Leather,Spring 2025,One Size,17.05,24.44
+P0098,SKU-0098,Travel Wallet,Wallets,Olive,Polyester,Fall 2025,One Size,35.83,87.52
+P0099,SKU-0099,Leather Satchel,Bags,Forest Green,Leather,Fall 2025,One Size,82.98,136.69
+P0100,SKU-0100,Training Shorts,Activewear,Lavender,Canvas,Summer 2025,XL,34.96,83.19
+P0101,SKU-0101,Baseball Cap,Accessories,Lavender,Cotton,Winter 2025,One Size,19.54,29.46
+P0102,SKU-0102,Performance Leggings,Activewear,Sage Green,Polyester,Spring 2025,M,64.14,112.47
+P0103,SKU-0103,Jogger Sweatpants,Sweats,White,Recycled Fabric,Fall 2025,M,48.25,71.16
+P0104,SKU-0104,Performance T-Shirt,Activewear,White,Polyester,Spring 2025,XS,33.96,53.78
+P0105,SKU-0105,Crossbody Bag,Bags,Olive,Leather,Winter 2025,One Size,79.34,184.9
+P0106,SKU-0106,Fleece Hoodie,Sweats,Brown,Polyester,Summer 2025,XS,60.23,121.07
+P0107,SKU-0107,Puffer Jacket,Jackets,Tan,Polyester,Fall 2025,S,135.63,246.04
+P0108,SKU-0108,Performance T-Shirt,Activewear,Forest Green,Cotton,Winter 2025,XL,49.24,73.46
+P0109,SKU-0109,Leather Backpack,Bags,Lavender,Recycled Fabric,Summer 2025,One Size,149.15,269.31
+P0110,SKU-0110,Mini Backpack,Bags,Tan,Polyester,Spring 2026,One Size,61.89,129.63
+P0111,SKU-0111,Keychain,Accessories,Navy,Leather,Spring 2026,One Size,52.04,80.09
+P0112,SKU-0112,Sports Bra,Activewear,White,Leather,Summer 2025,S,67.23,101.84
+P0113,SKU-0113,Leather Gloves,Accessories,Sage Green,Leather,Spring 2025,One Size,13.12,20.11
+P0114,SKU-0114,Training Hoodie,Activewear,Tan,Canvas,Spring 2025,M,59.56,100.79
+P0115,SKU-0115,Baseball Cap,Accessories,Dusty Pink,Cotton,Summer 2025,One Size,27.79,47.59
+P0116,SKU-0116,Weekender Duffel,Bags,Sage Green,Wool,Fall 2025,One Size,173.02,345.28
+P0117,SKU-0117,Crossbody Bag,Bags,Brown,Polyester,Spring 2026,One Size,158.72,227.62
+P0118,SKU-0118,Crewneck Sweatshirt,Sweats,White,Recycled Fabric,Winter 2025,L,51.25,118.57
+P0119,SKU-0119,Leather Gloves,Accessories,Cream,Recycled Fabric,Fall 2025,One Size,19.84,37.99
+P0120,SKU-0120,Leather Belt,Accessories,Brown,Wool,Fall 2025,One Size,37.51,55.36
+P0121,SKU-0121,Leather Belt,Accessories,Burgundy,Canvas,Fall 2025,One Size,32.67,79.61
+P0122,SKU-0122,Running Jacket,Activewear,Olive,Canvas,Summer 2025,XXS,77.35,112.3
+P0123,SKU-0123,Running Jacket,Activewear,Black,Recycled Fabric,Fall 2025,L,34.41,81.92
+P0124,SKU-0124,Coin Purse,Wallets,Forest Green,Canvas,Winter 2025,One Size,43.02,83.79
+P0125,SKU-0125,Canvas Tote,Bags,Brown,Recycled Fabric,Winter 2025,One Size,162.69,339.63
+P0126,SKU-0126,Zip Wallet,Wallets,Black,Wool,Spring 2026,One Size,31.98,57.21
+P0127,SKU-0127,Card Holder,Wallets,Lavender,Polyester,Winter 2025,One Size,31.2,56.63
+P0128,SKU-0128,Coin Purse,Wallets,White,Leather,Summer 2025,One Size,42.64,81.48
+P0129,SKU-0129,Bifold Wallet,Wallets,Navy,Leather,Summer 2025,One Size,30.04,43.04
+P0130,SKU-0130,Jogger Sweatpants,Sweats,Tan,Wool,Fall 2025,S,56.73,113.44
+P0131,SKU-0131,Card Holder,Wallets,Cream,Cotton,Summer 2025,One Size,41.75,93.84
+P0132,SKU-0132,Wool Beanie,Accessories,Cream,Canvas,Summer 2025,One Size,42.92,67.76
+P0133,SKU-0133,Leather Jacket,Jackets,Grey,Cotton,Winter 2025,S,295.02,447.5
+P0134,SKU-0134,Knit Scarf,Accessories,Dusty Pink,Recycled Fabric,Spring 2025,One Size,17.43,39.68
+P0135,SKU-0135,Coin Purse,Wallets,Black,Polyester,Spring 2025,One Size,68.11,118.42
+P0136,SKU-0136,Wool Beanie,Accessories,Cream,Cotton,Winter 2025,One Size,24.74,60.43
+P0137,SKU-0137,Card Holder,Wallets,Navy,Cotton,Spring 2026,One Size,49.61,98.66
+P0138,SKU-0138,Running Jacket,Activewear,Olive,Cotton,Winter 2025,XL,77.48,117.83
+P0139,SKU-0139,Mini Backpack,Bags,Navy,Canvas,Winter 2025,One Size,105.27,175.56
+P0140,SKU-0140,Quilted Jacket,Jackets,Navy,Leather,Fall 2025,M,234.94,420.42
+P0141,SKU-0141,Denim Jacket,Jackets,Lavender,Leather,Spring 2025,XS,118.46,247.81
+P0142,SKU-0142,Keychain,Accessories,Cream,Cotton,Spring 2025,One Size,41.13,59.27
+P0143,SKU-0143,Keychain,Accessories,Brown,Canvas,Summer 2025,One Size,13.96,31.09
+P0144,SKU-0144,Sports Bra,Activewear,Forest Green,Recycled Fabric,Winter 2025,XXS,37.79,71.73
+P0145,SKU-0145,Card Holder,Wallets,Tan,Wool,Spring 2025,One Size,25.62,45.17
+P0146,SKU-0146,Passport Wallet,Wallets,Olive,Canvas,Winter 2025,One Size,29.75,62.75
+P0147,SKU-0147,Rain Jacket,Jackets,White,Recycled Fabric,Fall 2025,XL,215.79,323.57
+P0148,SKU-0148,Denim Jacket,Jackets,Cream,Wool,Winter 2025,M,141.09,300.56
+P0149,SKU-0149,Training Hoodie,Activewear,Tan,Recycled Fabric,Spring 2025,XL,33.08,60.85
+P0150,SKU-0150,Leather Satchel,Bags,Dusty Pink,Leather,Spring 2026,One Size,111.61,172.48
+P0151,SKU-0151,Rain Jacket,Jackets,Lavender,Wool,Summer 2025,XS,200.12,373.89
+P0152,SKU-0152,Zip Hoodie,Sweats,Navy,Recycled Fabric,Winter 2025,S,77.57,124.65
+P0153,SKU-0153,Passport Wallet,Wallets,Black,Wool,Fall 2025,One Size,53.51,83.43
+P0154,SKU-0154,Quilted Jacket,Jackets,Black,Wool,Winter 2025,XL,196.52,418.25
+P0155,SKU-0155,Performance T-Shirt,Activewear,Black,Cotton,Fall 2025,XS,44.01,81.82
+P0156,SKU-0156,Leather Gloves,Accessories,Tan,Leather,Winter 2025,One Size,23.24,33.32
+P0157,SKU-0157,Leather Backpack,Bags,Tan,Recycled Fabric,Fall 2025,One Size,185.99,329.97
+P0158,SKU-0158,Coin Purse,Wallets,White,Polyester,Spring 2025,One Size,43.75,93.37
+P0159,SKU-0159,Card Holder,Wallets,Dusty Pink,Wool,Winter 2025,One Size,49.13,86.03
+P0160,SKU-0160,Passport Wallet,Wallets,Lavender,Polyester,Spring 2026,One Size,39.29,92.71
+P0161,SKU-0161,Training Shorts,Activewear,Black,Leather,Summer 2025,XS,52.8,98.07
+P0162,SKU-0162,Rain Jacket,Jackets,Dusty Pink,Recycled Fabric,Summer 2025,XS,142.79,274.18
+P0163,SKU-0163,Relaxed Sweatpants,Sweats,Tan,Polyester,Summer 2025,XL,54.16,124.01
+P0164,SKU-0164,Quilted Jacket,Jackets,Navy,Canvas,Fall 2025,XS,120.39,221.03
+P0165,SKU-0165,Leather Satchel,Bags,Grey,Canvas,Spring 2025,One Size,76.21,133.56
+P0166,SKU-0166,Zip Hoodie,Sweats,Forest Green,Recycled Fabric,Fall 2025,S,77.05,114.06
+P0167,SKU-0167,Training Hoodie,Activewear,Burgundy,Canvas,Winter 2025,XL,48.7,107.33
+P0168,SKU-0168,Running Jacket,Activewear,Brown,Polyester,Summer 2025,M,32.18,72.78
+P0169,SKU-0169,Leather Jacket,Jackets,Olive,Recycled Fabric,Spring 2025,XS,140.4,260.33
+P0170,SKU-0170,Training Hoodie,Activewear,Black,Wool,Fall 2025,XXS,41.81,97.07
+P0171,SKU-0171,Fleece Hoodie,Sweats,Cream,Canvas,Fall 2025,S,44.67,98.58
+P0172,SKU-0172,Travel Wallet,Wallets,Sage Green,Cotton,Winter 2025,One Size,34.79,71.84
+P0173,SKU-0173,Training Shorts,Activewear,Navy,Canvas,Winter 2025,XXS,64.54,93.0
+P0174,SKU-0174,Leather Backpack,Bags,Forest Green,Canvas,Spring 2025,One Size,147.3,347.83
+P0175,SKU-0175,Denim Jacket,Jackets,Dusty Pink,Cotton,Spring 2025,XL,96.02,226.29
+P0176,SKU-0176,Quilted Jacket,Jackets,Olive,Leather,Winter 2025,XS,102.74,215.29
+P0177,SKU-0177,Puffer Jacket,Jackets,White,Polyester,Spring 2025,L,111.28,271.9
+P0178,SKU-0178,Puffer Jacket,Jackets,Burgundy,Polyester,Spring 2026,M,140.77,284.43
+P0179,SKU-0179,Bomber Jacket,Jackets,Navy,Leather,Fall 2025,XS,272.86,423.2
+P0180,SKU-0180,Card Holder,Wallets,Lavender,Cotton,Fall 2025,One Size,21.05,43.78
+P0181,SKU-0181,Baseball Cap,Accessories,Tan,Leather,Fall 2025,One Size,26.35,59.13
+P0182,SKU-0182,Bifold Wallet,Wallets,Lavender,Wool,Spring 2025,One Size,52.93,99.66
+P0183,SKU-0183,Zip Hoodie,Sweats,Cream,Wool,Summer 2025,XXS,45.23,79.24
+P0184,SKU-0184,Card Holder,Wallets,Brown,Leather,Winter 2025,One Size,54.35,93.76
+P0185,SKU-0185,Leather Backpack,Bags,Sage Green,Polyester,Spring 2026,One Size,152.57,333.87
+P0186,SKU-0186,Coin Purse,Wallets,Burgundy,Wool,Summer 2025,One Size,26.9,59.97
+P0187,SKU-0187,Keychain,Accessories,Black,Wool,Summer 2025,One Size,24.75,36.09
+P0188,SKU-0188,Leather Backpack,Bags,Dusty Pink,Wool,Spring 2026,One Size,134.85,252.61
+P0189,SKU-0189,Crewneck Sweatshirt,Sweats,Grey,Recycled Fabric,Summer 2025,S,80.18,131.12
+P0190,SKU-0190,Running Jacket,Activewear,Burgundy,Recycled Fabric,Spring 2025,XXS,52.82,109.52
+P0191,SKU-0191,Crossbody Bag,Bags,Black,Canvas,Summer 2025,One Size,132.53,267.43
+P0192,SKU-0192,Bomber Jacket,Jackets,Black,Cotton,Winter 2025,XL,147.74,233.79
+P0193,SKU-0193,Zip Wallet,Wallets,Navy,Cotton,Fall 2025,One Size,44.02,76.48
+P0194,SKU-0194,Crossbody Bag,Bags,Black,Cotton,Fall 2025,One Size,124.1,284.46
+P0195,SKU-0195,Training Shorts,Activewear,Grey,Leather,Spring 2026,XL,35.18,68.25
+P0196,SKU-0196,Training Hoodie,Activewear,Brown,Leather,Winter 2025,S,67.99,97.68
+P0197,SKU-0197,Leather Jacket,Jackets,Sage Green,Leather,Winter 2025,XL,102.24,188.73
+P0198,SKU-0198,Rain Jacket,Jackets,Cream,Polyester,Spring 2026,XL,177.15,267.05
+P0199,SKU-0199,Canvas Tote,Bags,Tan,Cotton,Winter 2025,One Size,190.99,341.73
+P0200,SKU-0200,Bifold Wallet,Wallets,Burgundy,Wool,Winter 2025,One Size,53.64,98.0

@@ -28,3 +28,19 @@ Data sources:
 - GitHub
 - Snowflake
 - Power BI
+
+## Power BI Dashboard
+
+The dashboard provides insights into retail sales performance, customer behavior, and product performance.
+
+### Dashboard Overview
+
+![Retail Analytics Dashboard](powerbi/screenshots/dashboard_overview.png)
+
+### Key Features
+
+- Revenue and order KPIs
+- Monthly sales trend analysis
+- Top-performing products
+- Customer analysis
+- Category performance

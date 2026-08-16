@@ -15,7 +15,7 @@ SELECT
     SUM(fs.gross_sales) AS total_revenue,
 
     SUM(
-        (dp.unit_price - dp.cost) * fs.quantity
+        (fs.unit_price - dp.cost) * fs.quantity
     ) AS total_profit
 
 

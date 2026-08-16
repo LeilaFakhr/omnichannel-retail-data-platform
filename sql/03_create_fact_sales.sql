@@ -22,7 +22,7 @@ SELECT
 
     -- Business metrics
 
-    (oi.quantity * oi.unit_price) AS gross_sales
+    (oi.total_price AS gross_sales) AS gross_sales
 
 
 FROM orders o

@@ -1,17 +1,23 @@
 import pandas as pd
 import random
+
 NUMBER_OF_ITEMS = 3000
-order_ids = [
-    f"O{i:06d}"
-    for i in range(1, 1001)
-]
 
+# Load existing orders and products
+orders_df = pd.read_csv("data/raw/orders.csv")
+products_df = pd.read_csv("data/raw/products.csv")
 
-product_ids = [
-    f"P{i:04d}"
-    for i in range(1, 201)
-]
+# Available order and product IDs
+order_ids = orders_df["order_id"].tolist()
+product_ids = products_df["product_id"].tolist()
+
+# Create a lookup for product prices
+product_prices = dict(
+    zip(products_df["product_id"], products_df["unit_price"])
+)
+
 order_items = []
+
 for i in range(1, NUMBER_OF_ITEMS + 1):
 
     order_id = random.choice(order_ids)
@@ -20,7 +26,10 @@ for i in range(1, NUMBER_OF_ITEMS + 1):
 
     quantity = random.randint(1, 5)
 
-    unit_price = round(random.uniform(20, 450), 2)
+    # Use the product's actual unit price
+    unit_price = product_prices[product_id]
+
+    total_price = round(quantity * unit_price, 2)
 
     item = {
         "order_item_id": f"OI{i:06d}",
@@ -28,14 +37,15 @@ for i in range(1, NUMBER_OF_ITEMS + 1):
         "product_id": product_id,
         "quantity": quantity,
         "unit_price": unit_price,
-        "total_price": round(quantity * unit_price, 2)
+        "total_price": total_price
     }
 
     order_items.append(item)
-    df = pd.DataFrame(order_items)
+
+df = pd.DataFrame(order_items)
 
 print(df.head())
 
 df.to_csv("data/raw/order_items.csv", index=False)
 
-print("Order items generator completed successfully!")   
+print("Order items generator completed successfully!")

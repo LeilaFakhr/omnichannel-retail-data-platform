@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,payment_method,order_status,sales_channel
+O000001,C0104,2025-09-15,Credit Card,Delivered,Online
+O000002,C0469,2026-04-17,PayPal,Returned,Online
+O000003,C0207,2026-02-01,Shop Pay,Cancelled,Online
+O000004,C0317,2025-11-02,Gift Card,Processing,Store
+O000005,C0358,2025-12-15,Shop Pay,Shipped,Online
+O000006,C0327,2026-05-29,Debit Card,Returned,Store
+O000007,C0168,2026-06-22,Shop Pay,Shipped,Online
+O000008,C0482,2025-12-10,Shop Pay,Processing,Store
+O000009,C0053,2025-09-02,Shop Pay,Processing,Store
+O000010,C0489,2026-01-05,Credit Card,Processing,Store
+O000011,C0128,2026-06-13,Debit Card,Processing,Online
+O000012,C0115,2025-08-12,Shop Pay,Processing,Online
+O000013,C0332,2025-11-16,Debit Card,Delivered,Online
+O000014,C0006,2026-04-05,Credit Card,Shipped,Online
+O000015,C0401,2025-10-13,Shop Pay,Cancelled,Store
+O000016,C0341,2026-04-24,Shop Pay,Returned,Store
+O000017,C0271,2025-11-29,Gift Card,Delivered,Online
+O000018,C0081,2025-08-10,Credit Card,Shipped,Online
+O000019,C0411,2026-03-21,PayPal,Delivered,Store
+O000020,C0388,2025-12-09,Debit Card,Shipped,Online
+O000021,C0394,2026-07-08,Shop Pay,Shipped,Online
+O000022,C0309,2026-06-22,PayPal,Delivered,Online
+O000023,C0420,2026-01-13,PayPal,Delivered,Online
+O000024,C0319,2025-08-17,Shop Pay,Returned,Online
+O000025,C0376,2026-06-19,Shop Pay,Shipped,Store
+O000026,C0198,2025-12-25,PayPal,Shipped,Store
+O000027,C0395,2025-11-25,Credit Card,Returned,Store
+O000028,C0276,2026-03-07,PayPal,Shipped,Online
+O000029,C0392,2026-03-15,PayPal,Shipped,Online
+O000030,C0395,2026-01-10,Debit Card,Returned,Store
+O000031,C0209,2026-06-30,Shop Pay,Returned,Store
+O000032,C0388,2026-01-12,Gift Card,Processing,Store
+O000033,C0178,2025-07-17,Debit Card,Cancelled,Online
+O000034,C0454,2026-05-02,Credit Card,Shipped,Online
+O000035,C0444,2026-04-02,Shop Pay,Shipped,Store
+O000036,C0487,2026-02-16,Shop Pay,Returned,Store
+O000037,C0449,2025-09-17,Credit Card,Shipped,Store
+O000038,C0493,2026-01-24,Shop Pay,Shipped,Store
+O000039,C0364,2026-03-06,Shop Pay,Delivered,Online
+O000040,C0170,2026-03-16,Credit Card,Cancelled,Online
+O000041,C0295,2026-01-07,Shop Pay,Processing,Store
+O000042,C0011,2026-05-10,PayPal,Returned,Store
+O000043,C0279,2026-06-26,Gift Card,Cancelled,Store
+O000044,C0260,2025-11-28,Debit Card,Processing,Online
+O000045,C0007,2025-08-31,PayPal,Shipped,Online
+O000046,C0392,2026-02-05,Credit Card,Delivered,Online
+O000047,C0193,2026-02-23,PayPal,Shipped,Store
+O000048,C0275,2026-03-28,Debit Card,Processing,Store
+O000049,C0494,2025-10-28,Shop Pay,Cancelled,Store
+O000050,C0053,2026-03-11,Shop Pay,Returned,Store
+O000051,C0224,2025-12-12,PayPal,Cancelled,Store
+O000052,C0251,2026-04-19,Credit Card,Cancelled,Store
+O000053,C0369,2026-03-29,Credit Card,Delivered,Store
+O000054,C0310,2026-04-11,PayPal,Processing,Online
+O000055,C0390,2026-01-26,Shop Pay,Delivered,Store
+O000056,C0097,2026-03-22,Credit Card,Delivered,Store
+O000057,C0208,2026-06-27,Gift Card,Cancelled,Online
+O000058,C0212,2025-09-06,Debit Card,Shipped,Store
+O000059,C0311,2026-04-16,PayPal,Delivered,Store
+O000060,C0449,2025-07-19,Gift Card,Shipped,Store
+O000061,C0409,2026-03-02,Gift Card,Cancelled,Store
+O000062,C0096,2026-03-08,Credit Card,Delivered,Online
+O000063,C0080,2026-02-10,Debit Card,Processing,Online
+O000064,C0452,2026-05-06,Shop Pay,Delivered,Store
+O000065,C0400,2026-05-16,Debit Card,Returned,Online
+O000066,C0243,2025-10-04,Credit Card,Returned,Store
+O000067,C0008,2025-09-07,Credit Card,Shipped,Online
+O000068,C0233,2025-11-16,Shop Pay,Processing,Online
+O000069,C0082,2026-06-03,Gift Card,Processing,Online
+O000070,C0418,2026-01-20,PayPal,Delivered,Store
+O000071,C0027,2026-04-21,Debit Card,Cancelled,Online
+O000072,C0329,2026-06-06,Debit Card,Cancelled,Store
+O000073,C0257,2026-05-03,Debit Card,Returned,Online
+O000074,C0345,2026-06-13,Gift Card,Shipped,Store
+O000075,C0107,2026-02-28,Shop Pay,Cancelled,Store
+O000076,C0079,2026-05-30,Credit Card,Returned,Online
+O000077,C0486,2026-02-27,Gift Card,Delivered,Online
+O000078,C0414,2026-04-13,Gift Card,Delivered,Online
+O000079,C0083,2025-09-01,Debit Card,Cancelled,Online
+O000080,C0317,2026-04-09,Shop Pay,Returned,Store
+O000081,C0423,2026-03-21,PayPal,Returned,Store
+O000082,C0492,2025-11-23,Shop Pay,Shipped,Store
+O000083,C0112,2026-02-07,PayPal,Cancelled,Store
+O000084,C0479,2026-01-12,Debit Card,Delivered,Store
+O000085,C0023,2025-10-10,Credit Card,Returned,Online
+O000086,C0017,2026-01-21,Debit Card,Returned,Online
+O000087,C0074,2025-08-13,Gift Card,Delivered,Store
+O000088,C0063,2026-05-29,Debit Card,Cancelled,Store
+O000089,C0144,2026-03-31,Debit Card,Delivered,Online
+O000090,C0107,2025-08-12,Shop Pay,Returned,Online
+O000091,C0434,2025-07-24,Shop Pay,Delivered,Online
+O000092,C0383,2026-07-09,Shop Pay,Processing,Store
+O000093,C0187,2025-08-15,Gift Card,Returned,Online
+O000094,C0298,2026-05-22,Credit Card,Returned,Online
+O000095,C0246,2025-11-30,Gift Card,Delivered,Online
+O000096,C0381,2026-06-05,PayPal,Processing,Online
+O000097,C0094,2025-10-17,PayPal,Returned,Store
+O000098,C0393,2025-08-23,Credit Card,Shipped,Online
+O000099,C0241,2025-09-15,PayPal,Returned,Store
+O000100,C0321,2025-12-03,Debit Card,Returned,Store
+O000101,C0047,2026-07-06,Debit Card,Shipped,Online
+O000102,C0040,2025-09-07,PayPal,Shipped,Online
+O000103,C0402,2025-11-07,Credit Card,Delivered,Online
+O000104,C0490,2025-12-06,PayPal,Delivered,Online
+O000105,C0129,2025-11-14,Credit Card,Shipped,Store
+O000106,C0248,2026-05-10,Shop Pay,Cancelled,Online
+O000107,C0382,2026-04-15,PayPal,Processing,Online
+O000108,C0396,2025-09-06,Shop Pay,Processing,Store
+O000109,C0079,2026-05-16,Debit Card,Cancelled,Store
+O000110,C0355,2025-07-26,Debit Card,Delivered,Online
+O000111,C0184,2026-06-28,Shop Pay,Shipped,Store
+O000112,C0399,2026-04-28,Shop Pay,Shipped,Online
+O000113,C0134,2025-10-09,Gift Card,Cancelled,Online
+O000114,C0017,2025-07-31,Debit Card,Delivered,Store
+O000115,C0458,2026-03-06,Debit Card,Shipped,Store
+O000116,C0328,2025-09-08,PayPal,Delivered,Store
+O000117,C0289,2026-05-13,PayPal,Cancelled,Store
+O000118,C0303,2026-07-10,Credit Card,Shipped,Store
+O000119,C0175,2026-03-31,Credit Card,Cancelled,Online
+O000120,C0022,2026-01-07,Shop Pay,Delivered,Online
+O000121,C0493,2025-12-04,Debit Card,Returned,Online
+O000122,C0291,2025-11-20,Shop Pay,Cancelled,Store
+O000123,C0095,2026-01-02,Gift Card,Shipped,Store
+O000124,C0016,2025-11-15,Debit Card,Shipped,Store
+O000125,C0309,2026-02-03,Debit Card,Shipped,Store
+O000126,C0116,2026-05-22,Shop Pay,Delivered,Store
+O000127,C0086,2025-12-13,Credit Card,Processing,Online
+O000128,C0373,2026-02-15,Credit Card,Processing,Store
+O000129,C0298,2026-02-04,Gift Card,Cancelled,Store
+O000130,C0424,2025-10-12,Credit Card,Returned,Online
+O000131,C0292,2026-01-02,Gift Card,Processing,Store
+O000132,C0348,2025-12-05,PayPal,Cancelled,Online
+O000133,C0302,2025-09-01,Shop Pay,Cancelled,Online
+O000134,C0335,2026-02-24,PayPal,Cancelled,Store
+O000135,C0108,2025-10-21,Shop Pay,Shipped,Store
+O000136,C0319,2026-02-03,Shop Pay,Processing,Online
+O000137,C0472,2025-11-26,Gift Card,Cancelled,Online
+O000138,C0267,2025-08-22,PayPal,Shipped,Online
+O000139,C0001,2025-07-29,PayPal,Delivered,Online
+O000140,C0114,2025-12-16,Debit Card,Shipped,Store
+O000141,C0289,2026-03-14,Gift Card,Delivered,Store
+O000142,C0299,2026-05-25,Gift Card,Processing,Online
+O000143,C0248,2025-07-17,Credit Card,Shipped,Store
+O000144,C0313,2026-06-07,Credit Card,Shipped,Store
+O000145,C0451,2025-08-10,Debit Card,Returned,Online
+O000146,C0089,2026-05-12,Credit Card,Delivered,Store
+O000147,C0165,2025-10-16,Gift Card,Cancelled,Online
+O000148,C0025,2026-02-04,Shop Pay,Returned,Online
+O000149,C0231,2026-06-16,Debit Card,Processing,Online
+O000150,C0226,2026-04-08,Gift Card,Returned,Store
+O000151,C0326,2025-12-29,Debit Card,Processing,Store
+O000152,C0229,2025-12-30,Credit Card,Processing,Online
+O000153,C0497,2025-08-29,PayPal,Returned,Store
+O000154,C0035,2026-02-28,Debit Card,Processing,Store
+O000155,C0392,2026-01-21,Credit Card,Processing,Store
+O000156,C0120,2025-11-09,Gift Card,Delivered,Store
+O000157,C0388,2026-03-19,Gift Card,Cancelled,Online
+O000158,C0105,2026-01-14,Gift Card,Processing,Online
+O000159,C0262,2025-12-26,Credit Card,Shipped,Online
+O000160,C0033,2026-05-22,PayPal,Cancelled,Online
+O000161,C0279,2026-07-12,Gift Card,Processing,Online
+O000162,C0180,2025-07-27,PayPal,Delivered,Store
+O000163,C0430,2026-03-30,Shop Pay,Processing,Store
+O000164,C0085,2025-11-09,Shop Pay,Returned,Online
+O000165,C0500,2026-04-03,Credit Card,Processing,Online
+O000166,C0155,2025-08-10,Gift Card,Delivered,Store
+O000167,C0020,2025-08-25,PayPal,Cancelled,Online
+O000168,C0076,2025-12-08,Gift Card,Cancelled,Store
+O000169,C0259,2026-06-08,Credit Card,Delivered,Store
+O000170,C0499,2025-09-22,Shop Pay,Delivered,Online
+O000171,C0387,2025-09-20,Credit Card,Returned,Store
+O000172,C0198,2026-01-19,Credit Card,Shipped,Online
+O000173,C0159,2025-09-16,PayPal,Delivered,Online
+O000174,C0085,2025-07-28,Gift Card,Cancelled,Store
+O000175,C0057,2025-07-23,Shop Pay,Delivered,Online
+O000176,C0054,2025-11-05,PayPal,Processing,Online
+O000177,C0254,2025-11-23,Shop Pay,Cancelled,Store
+O000178,C0291,2025-12-05,Debit Card,Returned,Online
+O000179,C0163,2026-05-15,Credit Card,Cancelled,Store
+O000180,C0428,2026-07-08,Debit Card,Shipped,Online
+O000181,C0313,2026-03-25,Shop Pay,Shipped,Online
+O000182,C0127,2025-08-26,Shop Pay,Returned,Store
+O000183,C0070,2025-11-12,Credit Card,Cancelled,Online
+O000184,C0061,2025-08-14,Debit Card,Cancelled,Store
+O000185,C0225,2026-02-28,Debit Card,Processing,Store
+O000186,C0074,2026-05-10,Debit Card,Delivered,Online
+O000187,C0236,2026-03-18,Shop Pay,Returned,Online
+O000188,C0204,2026-07-03,PayPal,Returned,Online
+O000189,C0134,2025-12-20,Gift Card,Cancelled,Store
+O000190,C0411,2025-10-15,Gift Card,Processing,Store
+O000191,C0208,2026-03-24,Shop Pay,Returned,Store
+O000192,C0234,2026-02-07,Credit Card,Delivered,Store
+O000193,C0349,2025-10-12,Shop Pay,Delivered,Store
+O000194,C0368,2026-04-28,Gift Card,Processing,Online
+O000195,C0215,2025-08-04,Shop Pay,Shipped,Store
+O000196,C0403,2026-05-16,Debit Card,Delivered,Store
+O000197,C0458,2026-03-28,Debit Card,Cancelled,Store
+O000198,C0149,2026-04-21,Gift Card,Shipped,Store
+O000199,C0313,2026-04-01,PayPal,Delivered,Store
+O000200,C0096,2025-10-12,Shop Pay,Cancelled,Online
+O000201,C0190,2025-08-21,Gift Card,Cancelled,Store
+O000202,C0194,2026-05-25,Shop Pay,Returned,Store
+O000203,C0483,2026-06-05,PayPal,Processing,Store
+O000204,C0486,2026-05-10,Shop Pay,Shipped,Store
+O000205,C0088,2026-02-05,Debit Card,Cancelled,Online
+O000206,C0154,2026-02-08,Shop Pay,Cancelled,Store
+O000207,C0353,2026-02-14,PayPal,Returned,Online
+O000208,C0138,2026-03-11,Shop Pay,Processing,Online
+O000209,C0150,2026-06-08,Gift Card,Shipped,Online
+O000210,C0270,2025-10-19,Shop Pay,Shipped,Online
+O000211,C0426,2025-10-06,Credit Card,Cancelled,Online
+O000212,C0401,2026-04-10,PayPal,Returned,Online
+O000213,C0273,2025-10-24,Gift Card,Processing,Store
+O000214,C0065,2025-11-13,Debit Card,Cancelled,Online
+O000215,C0026,2026-06-02,Debit Card,Returned,Online
+O000216,C0415,2025-10-27,PayPal,Processing,Store
+O000217,C0310,2025-09-01,Gift Card,Returned,Online
+O000218,C0277,2026-03-20,Debit Card,Shipped,Store
+O000219,C0252,2026-03-05,Gift Card,Returned,Store
+O000220,C0449,2026-04-30,PayPal,Processing,Store
+O000221,C0340,2025-11-30,Credit Card,Returned,Store
+O000222,C0473,2026-06-05,Shop Pay,Processing,Store
+O000223,C0284,2025-09-12,Gift Card,Returned,Online
+O000224,C0500,2026-01-11,Gift Card,Returned,Store
+O000225,C0438,2025-10-06,PayPal,Returned,Store
+O000226,C0012,2025-09-08,Gift Card,Returned,Online
+O000227,C0012,2026-04-07,Credit Card,Delivered,Online
+O000228,C0430,2026-05-28,Gift Card,Shipped,Store
+O000229,C0273,2025-10-02,Gift Card,Delivered,Online
+O000230,C0430,2026-06-04,Shop Pay,Shipped,Store
+O000231,C0237,2025-08-18,Debit Card,Processing,Online
+O000232,C0081,2025-09-01,Credit Card,Cancelled,Store
+O000233,C0442,2026-02-22,PayPal,Shipped,Online
+O000234,C0478,2025-12-01,Gift Card,Returned,Online
+O000235,C0027,2026-01-23,Credit Card,Delivered,Store
+O000236,C0111,2026-06-19,PayPal,Shipped,Store
+O000237,C0430,2025-11-08,Credit Card,Returned,Online
+O000238,C0018,2026-02-13,Credit Card,Delivered,Online
+O000239,C0398,2026-04-24,Shop Pay,Shipped,Online
+O000240,C0457,2026-02-20,Debit Card,Processing,Store
+O000241,C0444,2026-06-30,PayPal,Processing,Online
+O000242,C0377,2026-04-27,Gift Card,Shipped,Store
+O000243,C0057,2026-05-23,Gift Card,Cancelled,Online
+O000244,C0330,2026-06-05,Shop Pay,Returned,Store
+O000245,C0222,2025-08-05,Gift Card,Processing,Online
+O000246,C0126,2025-08-27,PayPal,Shipped,Store
+O000247,C0427,2025-08-22,Shop Pay,Cancelled,Store
+O000248,C0239,2025-08-26,Shop Pay,Shipped,Online
+O000249,C0282,2026-01-04,PayPal,Delivered,Store
+O000250,C0188,2025-10-16,Shop Pay,Cancelled,Online
+O000251,C0051,2026-05-07,Credit Card,Returned,Online
+O000252,C0285,2026-02-23,Gift Card,Delivered,Store
+O000253,C0027,2025-08-31,Credit Card,Cancelled,Online
+O000254,C0386,2025-11-15,Shop Pay,Shipped,Online
+O000255,C0048,2025-09-02,Debit Card,Delivered,Online
+O000256,C0296,2026-03-22,PayPal,Returned,Store
+O000257,C0114,2025-08-10,PayPal,Processing,Store
+O000258,C0407,2025-07-30,PayPal,Returned,Online
+O000259,C0500,2025-11-13,Credit Card,Cancelled,Online
+O000260,C0255,2026-04-17,Shop Pay,Cancelled,Online
+O000261,C0252,2026-04-04,Gift Card,Shipped,Store
+O000262,C0128,2026-02-02,Debit Card,Shipped,Online
+O000263,C0031,2026-06-15,Shop Pay,Cancelled,Online
+O000264,C0385,2026-02-23,Gift Card,Delivered,Store
+O000265,C0500,2026-04-14,Debit Card,Processing,Store
+O000266,C0374,2026-06-17,Gift Card,Cancelled,Store
+O000267,C0303,2026-03-08,Credit Card,Shipped,Store
+O000268,C0353,2025-09-30,Gift Card,Shipped,Store
+O000269,C0035,2026-05-12,Credit Card,Delivered,Online
+O000270,C0344,2026-05-19,Gift Card,Shipped,Store
+O000271,C0016,2025-10-20,Credit Card,Processing,Store
+O000272,C0363,2026-02-21,Shop Pay,Processing,Online
+O000273,C0152,2025-09-06,Shop Pay,Delivered,Store
+O000274,C0023,2025-12-28,Credit Card,Delivered,Store
+O000275,C0030,2026-05-06,Debit Card,Cancelled,Store
+O000276,C0153,2026-06-06,Debit Card,Processing,Store
+O000277,C0290,2026-01-06,Credit Card,Returned,Online
+O000278,C0187,2025-09-21,Credit Card,Shipped,Store
+O000279,C0384,2025-12-22,Debit Card,Returned,Online
+O000280,C0327,2026-04-25,PayPal,Delivered,Online
+O000281,C0129,2025-09-26,Debit Card,Returned,Online
+O000282,C0121,2026-03-05,Credit Card,Processing,Online
+O000283,C0399,2026-05-21,Gift Card,Cancelled,Online
+O000284,C0178,2025-10-18,Credit Card,Delivered,Online
+O000285,C0287,2025-09-07,PayPal,Cancelled,Online
+O000286,C0208,2025-11-15,Shop Pay,Cancelled,Online
+O000287,C0499,2026-07-06,Debit Card,Shipped,Store
+O000288,C0309,2026-05-18,Credit Card,Delivered,Online
+O000289,C0234,2025-11-10,Credit Card,Processing,Online
+O000290,C0483,2026-04-06,Gift Card,Cancelled,Online
+O000291,C0265,2026-04-25,Debit Card,Returned,Online
+O000292,C0421,2026-03-13,PayPal,Processing,Store
+O000293,C0383,2026-06-26,Debit Card,Processing,Online
+O000294,C0166,2025-12-08,PayPal,Cancelled,Online
+O000295,C0336,2026-07-02,PayPal,Cancelled,Store
+O000296,C0490,2025-09-26,PayPal,Returned,Store
+O000297,C0066,2025-07-23,Shop Pay,Processing,Online
+O000298,C0367,2025-10-03,Debit Card,Returned,Store
+O000299,C0416,2025-10-05,Credit Card,Cancelled,Store
+O000300,C0101,2025-10-07,Shop Pay,Delivered,Online
+O000301,C0040,2025-09-30,Credit Card,Returned,Store
+O000302,C0163,2025-11-16,Debit Card,Returned,Online
+O000303,C0265,2026-05-13,Gift Card,Processing,Store
+O000304,C0412,2026-04-26,Shop Pay,Returned,Online
+O000305,C0062,2026-04-23,Shop Pay,Cancelled,Store
+O000306,C0469,2025-11-15,Debit Card,Cancelled,Online
+O000307,C0264,2026-02-20,PayPal,Returned,Online
+O000308,C0170,2026-04-04,Debit Card,Cancelled,Online
+O000309,C0189,2025-11-03,PayPal,Returned,Store
+O000310,C0411,2026-01-06,Credit Card,Delivered,Store
+O000311,C0163,2026-03-30,Shop Pay,Delivered,Store
+O000312,C0142,2026-01-26,PayPal,Shipped,Online
+O000313,C0184,2025-11-08,Debit Card,Processing,Online
+O000314,C0126,2026-04-03,Debit Card,Returned,Store
+O000315,C0409,2026-06-05,Shop Pay,Returned,Store
+O000316,C0074,2026-06-09,PayPal,Processing,Online
+O000317,C0065,2025-07-29,Gift Card,Cancelled,Online
+O000318,C0365,2025-10-03,Shop Pay,Shipped,Store
+O000319,C0424,2026-03-03,Gift Card,Delivered,Store
+O000320,C0255,2025-10-27,Debit Card,Returned,Online
+O000321,C0160,2026-03-28,Debit Card,Processing,Store
+O000322,C0016,2025-11-07,Shop Pay,Cancelled,Store
+O000323,C0239,2025-12-09,PayPal,Delivered,Online
+O000324,C0129,2025-07-24,PayPal,Cancelled,Store
+O000325,C0119,2026-05-02,Debit Card,Cancelled,Online
+O000326,C0349,2025-10-11,PayPal,Returned,Store
+O000327,C0140,2025-09-21,PayPal,Delivered,Online
+O000328,C0116,2026-04-09,Credit Card,Processing,Online
+O000329,C0354,2026-02-13,Credit Card,Shipped,Online
+O000330,C0106,2026-02-22,Gift Card,Cancelled,Store
+O000331,C0373,2025-07-14,Debit Card,Shipped,Online
+O000332,C0371,2025-09-11,Gift Card,Shipped,Store
+O000333,C0019,2025-12-28,Gift Card,Returned,Store
+O000334,C0126,2025-10-10,PayPal,Processing,Store
+O000335,C0473,2025-10-03,Debit Card,Returned,Store
+O000336,C0347,2025-08-08,Debit Card,Returned,Online
+O000337,C0127,2025-09-23,PayPal,Processing,Online
+O000338,C0156,2025-08-16,Shop Pay,Returned,Online
+O000339,C0032,2026-02-16,Gift Card,Returned,Online
+O000340,C0221,2025-10-25,Shop Pay,Processing,Online
+O000341,C0450,2026-05-18,Credit Card,Processing,Online
+O000342,C0496,2026-01-26,Debit Card,Delivered,Online
+O000343,C0279,2026-05-09,Shop Pay,Cancelled,Online
+O000344,C0387,2025-11-15,Shop Pay,Processing,Store
+O000345,C0425,2026-05-06,PayPal,Delivered,Store
+O000346,C0396,2026-06-23,Gift Card,Delivered,Online
+O000347,C0258,2025-10-12,PayPal,Shipped,Online
+O000348,C0318,2025-09-04,PayPal,Shipped,Store
+O000349,C0381,2025-09-20,Gift Card,Returned,Online
+O000350,C0187,2026-05-26,Shop Pay,Cancelled,Store
+O000351,C0476,2026-04-05,PayPal,Shipped,Online
+O000352,C0204,2026-05-29,Shop Pay,Cancelled,Store
+O000353,C0070,2025-08-20,Debit Card,Returned,Online
+O000354,C0435,2026-02-23,Gift Card,Returned,Store
+O000355,C0357,2026-04-30,Credit Card,Shipped,Online
+O000356,C0010,2025-09-16,Gift Card,Shipped,Online
+O000357,C0395,2026-01-08,Debit Card,Processing,Online
+O000358,C0118,2025-12-24,PayPal,Returned,Store
+O000359,C0188,2025-10-05,Debit Card,Processing,Store
+O000360,C0060,2026-03-14,Shop Pay,Shipped,Store
+O000361,C0385,2025-07-27,Debit Card,Delivered,Store
+O000362,C0264,2025-11-17,Debit Card,Shipped,Online
+O000363,C0069,2026-05-27,PayPal,Cancelled,Store
+O000364,C0399,2026-03-22,Credit Card,Processing,Online
+O000365,C0255,2026-02-02,Gift Card,Shipped,Store
+O000366,C0256,2026-05-10,Gift Card,Processing,Store
+O000367,C0207,2026-06-14,PayPal,Shipped,Store
+O000368,C0050,2025-07-30,PayPal,Delivered,Store
+O000369,C0162,2025-08-29,Credit Card,Cancelled,Store
+O000370,C0268,2025-11-14,Gift Card,Processing,Online
+O000371,C0467,2026-02-22,Gift Card,Returned,Online
+O000372,C0444,2026-04-23,PayPal,Cancelled,Online
+O000373,C0290,2026-04-28,Gift Card,Processing,Store
+O000374,C0401,2026-01-23,Gift Card,Cancelled,Store
+O000375,C0096,2025-08-17,Shop Pay,Delivered,Online
+O000376,C0213,2026-06-04,PayPal,Delivered,Store
+O000377,C0315,2026-07-04,Gift Card,Returned,Store
+O000378,C0064,2026-02-05,Shop Pay,Delivered,Online
+O000379,C0212,2026-03-04,Credit Card,Shipped,Store
+O000380,C0472,2026-06-03,Credit Card,Processing,Online
+O000381,C0439,2025-10-15,Credit Card,Shipped,Online
+O000382,C0233,2026-02-04,Debit Card,Processing,Online
+O000383,C0293,2026-02-07,Debit Card,Delivered,Online
+O000384,C0392,2025-10-29,PayPal,Shipped,Online
+O000385,C0081,2025-07-27,Gift Card,Delivered,Store
+O000386,C0005,2025-08-12,Shop Pay,Delivered,Store
+O000387,C0477,2026-03-28,Gift Card,Returned,Online
+O000388,C0224,2025-09-22,Debit Card,Cancelled,Store
+O000389,C0159,2026-01-25,PayPal,Shipped,Online
+O000390,C0433,2026-04-03,Shop Pay,Delivered,Store
+O000391,C0129,2025-12-05,Credit Card,Shipped,Online
+O000392,C0331,2026-05-26,Credit Card,Processing,Online
+O000393,C0450,2026-05-04,PayPal,Cancelled,Online
+O000394,C0279,2026-04-04,Credit Card,Shipped,Store
+O000395,C0162,2026-02-01,Credit Card,Returned,Online
+O000396,C0019,2026-04-20,PayPal,Delivered,Store
+O000397,C0333,2026-02-04,Credit Card,Returned,Store
+O000398,C0337,2025-12-04,Debit Card,Cancelled,Online
+O000399,C0422,2026-05-30,Gift Card,Returned,Online
+O000400,C0032,2026-01-14,Shop Pay,Cancelled,Store
+O000401,C0004,2025-10-29,Debit Card,Shipped,Store
+O000402,C0070,2026-03-04,PayPal,Processing,Store
+O000403,C0320,2025-10-09,PayPal,Delivered,Online
+O000404,C0031,2025-11-19,Debit Card,Processing,Online
+O000405,C0026,2026-03-24,Gift Card,Delivered,Store
+O000406,C0050,2026-04-20,Gift Card,Cancelled,Online
+O000407,C0109,2025-10-24,Credit Card,Delivered,Store
+O000408,C0355,2025-11-02,Debit Card,Returned,Store
+O000409,C0241,2026-01-23,PayPal,Shipped,Online
+O000410,C0354,2026-05-07,Debit Card,Delivered,Online
+O000411,C0255,2025-08-17,Debit Card,Cancelled,Store
+O000412,C0423,2025-10-24,PayPal,Shipped,Online
+O000413,C0177,2025-09-28,PayPal,Processing,Store
+O000414,C0452,2026-05-05,Debit Card,Shipped,Store
+O000415,C0153,2025-08-01,PayPal,Cancelled,Store
+O000416,C0441,2025-10-31,Credit Card,Shipped,Online
+O000417,C0336,2025-09-27,Debit Card,Returned,Store
+O000418,C0483,2026-01-05,Shop Pay,Returned,Store
+O000419,C0044,2026-02-07,Gift Card,Delivered,Store
+O000420,C0054,2025-12-12,PayPal,Processing,Online
+O000421,C0275,2025-10-19,Gift Card,Processing,Store
+O000422,C0225,2025-12-01,Shop Pay,Cancelled,Online
+O000423,C0500,2025-11-29,Gift Card,Delivered,Store
+O000424,C0437,2026-03-30,PayPal,Shipped,Online
+O000425,C0127,2026-01-20,Shop Pay,Cancelled,Online
+O000426,C0121,2026-02-01,Gift Card,Cancelled,Online
+O000427,C0048,2025-12-17,Debit Card,Delivered,Online
+O000428,C0369,2026-06-26,Credit Card,Returned,Store
+O000429,C0186,2025-11-03,Shop Pay,Returned,Store
+O000430,C0405,2025-09-28,Gift Card,Shipped,Store
+O000431,C0433,2025-11-23,PayPal,Returned,Online
+O000432,C0476,2026-06-25,Credit Card,Delivered,Store
+O000433,C0243,2026-05-31,PayPal,Delivered,Store
+O000434,C0109,2026-01-30,PayPal,Processing,Online
+O000435,C0010,2026-03-23,Credit Card,Processing,Store
+O000436,C0448,2025-10-20,Debit Card,Cancelled,Store
+O000437,C0495,2026-02-01,PayPal,Shipped,Online
+O000438,C0170,2026-07-12,Debit Card,Returned,Online
+O000439,C0081,2025-09-25,PayPal,Delivered,Online
+O000440,C0144,2026-03-07,Credit Card,Delivered,Online
+O000441,C0446,2025-08-04,Gift Card,Processing,Online
+O000442,C0350,2025-08-04,Credit Card,Shipped,Online
+O000443,C0425,2025-07-14,Shop Pay,Returned,Online
+O000444,C0342,2025-10-22,PayPal,Delivered,Store
+O000445,C0316,2025-12-02,Credit Card,Returned,Online
+O000446,C0230,2025-07-24,Credit Card,Returned,Store
+O000447,C0446,2026-04-20,Debit Card,Processing,Online
+O000448,C0067,2026-03-28,Credit Card,Cancelled,Online
+O000449,C0318,2025-12-31,Credit Card,Delivered,Online
+O000450,C0099,2026-05-07,PayPal,Processing,Store
+O000451,C0454,2025-07-21,Debit Card,Delivered,Online
+O000452,C0033,2025-10-19,Shop Pay,Processing,Store
+O000453,C0032,2025-08-19,Shop Pay,Delivered,Store
+O000454,C0479,2026-04-12,Gift Card,Cancelled,Online
+O000455,C0223,2026-02-17,Gift Card,Shipped,Online
+O000456,C0284,2026-01-14,Credit Card,Processing,Online
+O000457,C0079,2026-06-19,PayPal,Delivered,Online
+O000458,C0419,2025-08-28,Debit Card,Delivered,Store
+O000459,C0063,2026-02-02,Shop Pay,Processing,Store
+O000460,C0117,2026-03-15,Credit Card,Delivered,Online
+O000461,C0404,2025-12-26,Gift Card,Shipped,Store
+O000462,C0421,2026-06-03,PayPal,Shipped,Online
+O000463,C0015,2025-11-07,PayPal,Cancelled,Store
+O000464,C0156,2025-10-14,Shop Pay,Cancelled,Store
+O000465,C0049,2026-05-25,Gift Card,Delivered,Online
+O000466,C0184,2025-11-03,PayPal,Shipped,Store
+O000467,C0129,2026-04-07,Credit Card,Returned,Online
+O000468,C0085,2026-05-06,Debit Card,Cancelled,Online
+O000469,C0222,2026-01-04,Gift Card,Processing,Online
+O000470,C0089,2025-08-14,Shop Pay,Delivered,Store
+O000471,C0369,2026-04-26,Credit Card,Delivered,Online
+O000472,C0119,2026-04-23,Shop Pay,Cancelled,Online
+O000473,C0007,2026-02-21,Credit Card,Shipped,Store
+O000474,C0204,2025-07-18,Credit Card,Delivered,Store
+O000475,C0103,2026-06-02,Debit Card,Processing,Store
+O000476,C0416,2026-07-08,Debit Card,Cancelled,Online
+O000477,C0091,2026-06-05,Debit Card,Cancelled,Store
+O000478,C0174,2026-05-28,Debit Card,Cancelled,Store
+O000479,C0245,2025-08-24,PayPal,Cancelled,Online
+O000480,C0332,2025-10-24,Debit Card,Returned,Online
+O000481,C0297,2026-02-05,Shop Pay,Delivered,Store
+O000482,C0230,2026-04-08,Credit Card,Cancelled,Online
+O000483,C0442,2025-07-19,Debit Card,Cancelled,Store
+O000484,C0444,2026-07-04,Credit Card,Processing,Store
+O000485,C0171,2026-01-02,Shop Pay,Shipped,Online
+O000486,C0102,2025-07-26,Shop Pay,Shipped,Online
+O000487,C0458,2025-07-24,Gift Card,Shipped,Store
+O000488,C0444,2026-05-31,Credit Card,Delivered,Store
+O000489,C0402,2026-05-11,Gift Card,Processing,Online
+O000490,C0184,2025-07-26,PayPal,Processing,Online
+O000491,C0199,2026-02-13,Debit Card,Cancelled,Store
+O000492,C0415,2025-12-29,PayPal,Processing,Online
+O000493,C0467,2025-12-17,Credit Card,Processing,Online
+O000494,C0223,2026-01-17,Shop Pay,Shipped,Store
+O000495,C0174,2026-04-10,Shop Pay,Shipped,Online
+O000496,C0020,2026-05-07,Shop Pay,Returned,Online
+O000497,C0219,2026-03-03,Credit Card,Processing,Store
+O000498,C0486,2025-11-24,Debit Card,Cancelled,Online
+O000499,C0359,2026-04-09,Credit Card,Delivered,Online
+O000500,C0121,2025-11-14,Debit Card,Shipped,Store
+O000501,C0068,2025-11-26,Credit Card,Delivered,Store
+O000502,C0303,2026-01-12,PayPal,Shipped,Store
+O000503,C0487,2026-06-29,Debit Card,Delivered,Online
+O000504,C0206,2025-08-04,Credit Card,Cancelled,Online
+O000505,C0292,2026-02-21,PayPal,Delivered,Store
+O000506,C0182,2026-01-14,Shop Pay,Shipped,Online
+O000507,C0470,2025-09-04,PayPal,Returned,Online
+O000508,C0271,2026-06-29,Gift Card,Returned,Store
+O000509,C0447,2025-09-14,PayPal,Cancelled,Online
+O000510,C0177,2025-11-01,Credit Card,Returned,Online
+O000511,C0409,2025-08-21,Shop Pay,Shipped,Online
+O000512,C0101,2026-02-21,Credit Card,Delivered,Store
+O000513,C0317,2025-12-01,Debit Card,Shipped,Store
+O000514,C0193,2026-03-01,Credit Card,Processing,Online
+O000515,C0168,2025-08-19,Shop Pay,Cancelled,Online
+O000516,C0296,2026-02-18,PayPal,Returned,Online
+O000517,C0283,2026-06-28,Credit Card,Cancelled,Online
+O000518,C0151,2025-08-19,PayPal,Returned,Online
+O000519,C0492,2025-11-07,Credit Card,Returned,Store
+O000520,C0362,2026-01-29,Gift Card,Processing,Online
+O000521,C0056,2025-10-24,Credit Card,Cancelled,Online
+O000522,C0289,2025-12-11,PayPal,Shipped,Online
+O000523,C0041,2026-01-18,Shop Pay,Delivered,Store
+O000524,C0040,2026-07-05,PayPal,Shipped,Store
+O000525,C0285,2026-03-10,Gift Card,Shipped,Online
+O000526,C0069,2026-05-26,Debit Card,Processing,Online
+O000527,C0223,2025-10-06,Shop Pay,Delivered,Store
+O000528,C0287,2025-10-18,Gift Card,Delivered,Online
+O000529,C0151,2026-06-22,Debit Card,Processing,Store
+O000530,C0422,2025-07-31,Debit Card,Returned,Online
+O000531,C0064,2025-10-06,Gift Card,Delivered,Store
+O000532,C0022,2026-05-24,Debit Card,Cancelled,Store
+O000533,C0202,2025-08-16,Credit Card,Processing,Online
+O000534,C0279,2026-04-12,PayPal,Processing,Store
+O000535,C0346,2026-01-21,Shop Pay,Delivered,Online
+O000536,C0055,2025-12-16,Shop Pay,Processing,Store
+O000537,C0209,2026-04-13,Gift Card,Shipped,Online
+O000538,C0222,2025-10-03,PayPal,Processing,Store
+O000539,C0042,2025-09-18,Gift Card,Processing,Online
+O000540,C0370,2025-12-23,Shop Pay,Returned,Online
+O000541,C0215,2026-01-01,PayPal,Cancelled,Online
+O000542,C0154,2025-09-21,Shop Pay,Returned,Online
+O000543,C0324,2026-06-12,Shop Pay,Cancelled,Online
+O000544,C0365,2025-10-13,PayPal,Cancelled,Online
+O000545,C0489,2025-08-20,Credit Card,Returned,Store
+O000546,C0356,2025-11-30,Credit Card,Delivered,Online
+O000547,C0344,2026-04-21,Credit Card,Returned,Online
+O000548,C0021,2025-09-14,Credit Card,Cancelled,Online
+O000549,C0172,2026-01-17,Credit Card,Processing,Online
+O000550,C0466,2026-03-17,Debit Card,Cancelled,Store
+O000551,C0024,2025-08-09,PayPal,Delivered,Online
+O000552,C0363,2026-01-07,Shop Pay,Returned,Store
+O000553,C0471,2026-07-12,Shop Pay,Shipped,Store
+O000554,C0389,2026-02-20,Gift Card,Cancelled,Online
+O000555,C0246,2026-01-09,Gift Card,Cancelled,Store
+O000556,C0418,2026-03-30,Gift Card,Shipped,Online
+O000557,C0136,2026-02-23,Gift Card,Processing,Store
+O000558,C0342,2026-04-12,Gift Card,Processing,Store
+O000559,C0249,2025-11-17,Credit Card,Returned,Online
+O000560,C0242,2026-01-15,Shop Pay,Returned,Online
+O000561,C0105,2025-07-17,Shop Pay,Cancelled,Store
+O000562,C0174,2026-05-30,Credit Card,Returned,Online
+O000563,C0157,2025-07-25,Gift Card,Returned,Online
+O000564,C0126,2025-12-09,Gift Card,Delivered,Online
+O000565,C0328,2026-02-21,Gift Card,Cancelled,Store
+O000566,C0269,2025-09-24,Debit Card,Delivered,Online
+O000567,C0210,2025-12-28,Debit Card,Shipped,Store
+O000568,C0231,2025-11-01,PayPal,Delivered,Online
+O000569,C0458,2026-03-13,Debit Card,Cancelled,Online
+O000570,C0079,2025-12-05,Credit Card,Cancelled,Online
+O000571,C0497,2025-12-13,Debit Card,Cancelled,Online
+O000572,C0074,2025-10-08,Shop Pay,Cancelled,Store
+O000573,C0250,2025-09-26,Credit Card,Returned,Store
+O000574,C0296,2025-12-20,Debit Card,Cancelled,Store
+O000575,C0283,2026-03-07,PayPal,Processing,Store
+O000576,C0371,2025-10-07,Gift Card,Processing,Online
+O000577,C0055,2025-07-31,Debit Card,Delivered,Online
+O000578,C0335,2026-04-03,Shop Pay,Processing,Store
+O000579,C0440,2025-12-09,Gift Card,Shipped,Store
+O000580,C0458,2025-10-03,Credit Card,Processing,Store
+O000581,C0429,2026-07-05,Shop Pay,Shipped,Store
+O000582,C0039,2025-12-17,Debit Card,Processing,Online
+O000583,C0140,2025-07-22,Credit Card,Returned,Store
+O000584,C0177,2026-03-01,Gift Card,Cancelled,Store
+O000585,C0123,2026-04-04,Credit Card,Delivered,Online
+O000586,C0373,2026-05-03,Debit Card,Returned,Store
+O000587,C0353,2026-01-23,Gift Card,Returned,Online
+O000588,C0155,2025-08-26,Debit Card,Processing,Online
+O000589,C0078,2025-10-01,Gift Card,Cancelled,Store
+O000590,C0460,2025-09-27,Gift Card,Cancelled,Store
+O000591,C0471,2025-11-16,Debit Card,Processing,Store
+O000592,C0193,2026-05-26,Gift Card,Shipped,Store
+O000593,C0425,2025-09-09,Debit Card,Processing,Store
+O000594,C0161,2025-08-28,Debit Card,Delivered,Store
+O000595,C0268,2025-10-05,Gift Card,Processing,Store
+O000596,C0358,2025-12-15,Credit Card,Delivered,Online
+O000597,C0027,2026-05-20,PayPal,Processing,Store
+O000598,C0163,2026-03-02,Credit Card,Shipped,Store
+O000599,C0017,2026-03-09,Shop Pay,Returned,Online
+O000600,C0292,2026-01-24,Gift Card,Shipped,Store
+O000601,C0047,2026-07-10,PayPal,Delivered,Online
+O000602,C0110,2025-12-09,Gift Card,Cancelled,Online
+O000603,C0360,2026-02-07,PayPal,Processing,Online
+O000604,C0274,2026-02-07,Credit Card,Shipped,Online
+O000605,C0038,2026-01-28,Gift Card,Returned,Online
+O000606,C0306,2026-03-28,Gift Card,Shipped,Online
+O000607,C0017,2026-01-25,Debit Card,Returned,Store
+O000608,C0091,2025-08-18,Credit Card,Cancelled,Store
+O000609,C0172,2025-12-26,Debit Card,Cancelled,Store
+O000610,C0404,2025-12-03,PayPal,Processing,Store
+O000611,C0204,2026-02-05,Gift Card,Processing,Store
+O000612,C0100,2025-12-16,PayPal,Returned,Store
+O000613,C0418,2026-05-24,Debit Card,Delivered,Online
+O000614,C0152,2025-12-16,Shop Pay,Delivered,Store
+O000615,C0418,2026-03-28,Credit Card,Returned,Store
+O000616,C0207,2026-06-10,Gift Card,Cancelled,Online
+O000617,C0058,2026-04-23,Gift Card,Shipped,Online
+O000618,C0070,2026-02-07,Debit Card,Shipped,Store
+O000619,C0491,2025-08-22,Gift Card,Cancelled,Online
+O000620,C0107,2026-06-28,PayPal,Delivered,Online
+O000621,C0317,2026-04-02,Credit Card,Shipped,Online
+O000622,C0454,2026-02-13,Shop Pay,Cancelled,Store
+O000623,C0150,2026-03-19,Debit Card,Returned,Store
+O000624,C0076,2026-05-01,Credit Card,Returned,Store
+O000625,C0150,2025-09-10,Gift Card,Cancelled,Store
+O000626,C0420,2025-10-09,Debit Card,Delivered,Store
+O000627,C0347,2025-12-04,Shop Pay,Cancelled,Store
+O000628,C0078,2025-11-19,Credit Card,Returned,Online
+O000629,C0222,2025-10-14,Debit Card,Shipped,Online
+O000630,C0267,2026-02-27,Shop Pay,Delivered,Online
+O000631,C0339,2025-11-20,Debit Card,Returned,Online
+O000632,C0072,2025-10-07,Shop Pay,Delivered,Store
+O000633,C0131,2025-11-18,PayPal,Processing,Store
+O000634,C0092,2026-04-16,Shop Pay,Delivered,Online
+O000635,C0463,2025-12-07,Debit Card,Returned,Online
+O000636,C0029,2026-05-12,PayPal,Processing,Store
+O000637,C0499,2026-07-12,Shop Pay,Returned,Store
+O000638,C0302,2025-08-06,Shop Pay,Returned,Online
+O000639,C0149,2026-07-12,Credit Card,Shipped,Store
+O000640,C0195,2025-10-16,Credit Card,Delivered,Online
+O000641,C0156,2026-03-24,Gift Card,Returned,Store
+O000642,C0361,2026-05-31,Shop Pay,Returned,Online
+O000643,C0269,2026-01-24,Gift Card,Processing,Store
+O000644,C0372,2026-07-01,Debit Card,Shipped,Store
+O000645,C0204,2026-06-27,Credit Card,Processing,Online
+O000646,C0109,2025-08-19,Gift Card,Shipped,Online
+O000647,C0461,2026-07-08,Gift Card,Cancelled,Online
+O000648,C0097,2026-06-17,Credit Card,Shipped,Store
+O000649,C0470,2025-12-05,Credit Card,Returned,Online
+O000650,C0002,2025-10-01,Shop Pay,Shipped,Online
+O000651,C0124,2025-08-29,Gift Card,Delivered,Online
+O000652,C0121,2025-11-22,Credit Card,Shipped,Online
+O000653,C0317,2025-09-15,Gift Card,Cancelled,Store
+O000654,C0279,2026-04-18,Debit Card,Cancelled,Store
+O000655,C0199,2025-11-07,Gift Card,Processing,Online
+O000656,C0005,2026-01-22,Shop Pay,Delivered,Online
+O000657,C0042,2026-01-25,Credit Card,Cancelled,Store
+O000658,C0022,2026-02-11,Shop Pay,Returned,Online
+O000659,C0295,2026-03-03,Shop Pay,Shipped,Online
+O000660,C0026,2025-08-29,Credit Card,Returned,Store
+O000661,C0406,2025-12-01,Credit Card,Cancelled,Online
+O000662,C0246,2025-08-10,Debit Card,Returned,Store
+O000663,C0340,2026-05-10,PayPal,Returned,Online
+O000664,C0135,2026-02-25,PayPal,Shipped,Online
+O000665,C0278,2026-04-21,Shop Pay,Delivered,Online
+O000666,C0194,2026-01-08,Shop Pay,Cancelled,Store
+O000667,C0238,2026-05-21,Shop Pay,Delivered,Store
+O000668,C0430,2025-09-28,PayPal,Returned,Online
+O000669,C0391,2026-03-17,Credit Card,Shipped,Store
+O000670,C0101,2025-09-04,PayPal,Cancelled,Store
+O000671,C0304,2025-07-21,Gift Card,Processing,Store
+O000672,C0250,2026-05-28,Gift Card,Cancelled,Store
+O000673,C0320,2025-09-30,PayPal,Cancelled,Online
+O000674,C0016,2026-05-25,Debit Card,Cancelled,Online
+O000675,C0121,2025-09-13,Credit Card,Cancelled,Store
+O000676,C0259,2026-06-02,Credit Card,Returned,Online
+O000677,C0309,2025-09-21,Shop Pay,Cancelled,Online
+O000678,C0468,2025-11-13,Credit Card,Processing,Online
+O000679,C0352,2026-01-15,Shop Pay,Returned,Online
+O000680,C0091,2026-02-26,Credit Card,Cancelled,Online
+O000681,C0133,2025-09-30,PayPal,Returned,Store
+O000682,C0348,2026-06-06,Debit Card,Cancelled,Online
+O000683,C0365,2025-11-10,Debit Card,Returned,Store
+O000684,C0155,2025-09-04,PayPal,Processing,Store
+O000685,C0071,2026-04-17,PayPal,Delivered,Online
+O000686,C0046,2026-01-06,Credit Card,Delivered,Online
+O000687,C0338,2026-04-06,Shop Pay,Returned,Online
+O000688,C0115,2026-05-15,Gift Card,Returned,Store
+O000689,C0106,2026-06-30,Credit Card,Shipped,Store
+O000690,C0127,2026-06-27,Credit Card,Shipped,Online
+O000691,C0240,2026-03-30,Shop Pay,Delivered,Online
+O000692,C0367,2025-10-21,Credit Card,Shipped,Store
+O000693,C0450,2026-05-07,Debit Card,Shipped,Store
+O000694,C0064,2025-10-08,Gift Card,Delivered,Online
+O000695,C0064,2025-10-24,Shop Pay,Shipped,Online
+O000696,C0481,2025-11-07,Gift Card,Processing,Store
+O000697,C0383,2026-01-29,Gift Card,Returned,Store
+O000698,C0048,2026-03-16,Gift Card,Returned,Store
+O000699,C0484,2026-05-18,Gift Card,Processing,Online
+O000700,C0196,2026-01-12,Credit Card,Returned,Store
+O000701,C0050,2026-05-22,Debit Card,Cancelled,Online
+O000702,C0195,2025-12-16,Shop Pay,Shipped,Store
+O000703,C0024,2025-09-24,Debit Card,Delivered,Store
+O000704,C0144,2026-05-03,Gift Card,Shipped,Store
+O000705,C0231,2025-10-18,Shop Pay,Returned,Store
+O000706,C0179,2026-05-19,PayPal,Shipped,Store
+O000707,C0176,2026-05-09,Gift Card,Returned,Online
+O000708,C0439,2026-05-27,PayPal,Processing,Store
+O000709,C0382,2026-03-18,Gift Card,Shipped,Online
+O000710,C0032,2025-11-21,Shop Pay,Delivered,Online
+O000711,C0194,2025-09-16,Gift Card,Processing,Store
+O000712,C0096,2025-12-28,Debit Card,Cancelled,Online
+O000713,C0094,2025-09-08,PayPal,Shipped,Online
+O000714,C0168,2026-02-26,Gift Card,Delivered,Store
+O000715,C0312,2026-07-05,PayPal,Shipped,Store
+O000716,C0221,2026-06-06,PayPal,Returned,Store
+O000717,C0237,2026-05-18,Debit Card,Cancelled,Store
+O000718,C0179,2026-01-08,Debit Card,Delivered,Online
+O000719,C0407,2025-08-11,Shop Pay,Cancelled,Store
+O000720,C0459,2026-05-29,Gift Card,Cancelled,Store
+O000721,C0346,2025-10-30,Gift Card,Processing,Store
+O000722,C0283,2026-02-09,Shop Pay,Delivered,Online
+O000723,C0231,2025-10-31,Debit Card,Returned,Store
+O000724,C0118,2026-01-02,PayPal,Delivered,Store
+O000725,C0027,2025-07-21,PayPal,Cancelled,Store
+O000726,C0281,2025-09-22,Shop Pay,Processing,Online
+O000727,C0442,2026-07-04,Shop Pay,Delivered,Online
+O000728,C0103,2025-09-23,Debit Card,Processing,Store
+O000729,C0090,2026-02-01,Credit Card,Delivered,Store
+O000730,C0445,2025-08-07,Shop Pay,Processing,Online
+O000731,C0409,2025-08-11,Shop Pay,Shipped,Store
+O000732,C0224,2025-10-10,Debit Card,Returned,Store
+O000733,C0224,2026-03-12,Gift Card,Shipped,Online
+O000734,C0345,2026-01-26,Shop Pay,Returned,Store
+O000735,C0440,2026-05-22,PayPal,Processing,Store
+O000736,C0078,2025-11-09,Shop Pay,Cancelled,Store
+O000737,C0354,2025-12-08,Debit Card,Delivered,Store
+O000738,C0252,2026-04-25,Gift Card,Processing,Online
+O000739,C0082,2026-02-01,Gift Card,Cancelled,Online
+O000740,C0085,2026-05-22,Credit Card,Returned,Store
+O000741,C0337,2025-10-19,Gift Card,Shipped,Store
+O000742,C0109,2026-01-18,Debit Card,Delivered,Online
+O000743,C0120,2025-11-27,Debit Card,Cancelled,Store
+O000744,C0280,2026-01-11,Gift Card,Cancelled,Online
+O000745,C0048,2026-06-10,Credit Card,Returned,Store
+O000746,C0063,2026-03-17,Gift Card,Processing,Store
+O000747,C0245,2026-03-02,PayPal,Shipped,Store
+O000748,C0140,2026-06-16,Debit Card,Returned,Store
+O000749,C0156,2026-05-25,Shop Pay,Delivered,Online
+O000750,C0027,2026-07-10,PayPal,Returned,Store
+O000751,C0461,2026-04-21,Credit Card,Cancelled,Online
+O000752,C0062,2025-08-11,Debit Card,Cancelled,Online
+O000753,C0271,2026-03-02,Shop Pay,Shipped,Store
+O000754,C0206,2026-05-25,PayPal,Returned,Store
+O000755,C0365,2025-12-22,Gift Card,Delivered,Online
+O000756,C0306,2025-11-09,PayPal,Processing,Store
+O000757,C0234,2026-07-07,PayPal,Processing,Store
+O000758,C0086,2026-02-03,Shop Pay,Cancelled,Online
+O000759,C0372,2025-08-29,Gift Card,Processing,Online
+O000760,C0290,2026-03-31,Credit Card,Returned,Online
+O000761,C0341,2025-07-18,PayPal,Delivered,Store
+O000762,C0273,2026-04-14,Credit Card,Delivered,Store
+O000763,C0261,2025-07-20,Credit Card,Processing,Online
+O000764,C0152,2026-02-04,PayPal,Cancelled,Online
+O000765,C0085,2026-02-11,PayPal,Returned,Online
+O000766,C0045,2025-10-04,Debit Card,Processing,Online
+O000767,C0148,2025-11-13,Gift Card,Returned,Store
+O000768,C0072,2026-01-27,PayPal,Shipped,Store
+O000769,C0026,2025-09-08,Gift Card,Cancelled,Store
+O000770,C0301,2025-09-27,Debit Card,Returned,Store
+O000771,C0074,2026-03-14,Shop Pay,Returned,Store
+O000772,C0258,2025-09-02,Credit Card,Delivered,Online
+O000773,C0152,2025-10-18,Credit Card,Returned,Store
+O000774,C0271,2025-07-19,Debit Card,Cancelled,Online
+O000775,C0258,2025-11-04,Gift Card,Returned,Store
+O000776,C0136,2026-07-11,Gift Card,Cancelled,Online
+O000777,C0445,2026-01-19,Gift Card,Shipped,Store
+O000778,C0275,2026-01-28,PayPal,Delivered,Store
+O000779,C0369,2026-05-07,Gift Card,Shipped,Store
+O000780,C0252,2026-02-28,PayPal,Shipped,Store
+O000781,C0030,2025-10-14,Shop Pay,Processing,Store
+O000782,C0287,2026-01-06,Gift Card,Processing,Online
+O000783,C0424,2026-01-23,Debit Card,Processing,Store
+O000784,C0083,2025-07-28,Shop Pay,Shipped,Online
+O000785,C0430,2025-09-05,PayPal,Returned,Store
+O000786,C0124,2026-01-05,Shop Pay,Processing,Store
+O000787,C0341,2025-11-21,PayPal,Delivered,Online
+O000788,C0356,2025-12-25,Credit Card,Returned,Online
+O000789,C0274,2025-12-31,Gift Card,Processing,Online
+O000790,C0172,2025-08-06,Shop Pay,Delivered,Store
+O000791,C0214,2026-05-27,Gift Card,Returned,Store
+O000792,C0426,2026-06-06,Credit Card,Shipped,Store
+O000793,C0118,2026-03-22,Shop Pay,Returned,Store
+O000794,C0208,2025-08-03,Shop Pay,Returned,Online
+O000795,C0459,2025-10-02,PayPal,Returned,Store
+O000796,C0412,2026-03-24,Credit Card,Processing,Store
+O000797,C0385,2026-04-27,Credit Card,Returned,Online
+O000798,C0498,2026-06-16,Debit Card,Cancelled,Store
+O000799,C0196,2025-11-10,PayPal,Delivered,Store
+O000800,C0051,2025-12-11,Shop Pay,Delivered,Online
+O000801,C0249,2026-03-19,Credit Card,Shipped,Store
+O000802,C0212,2025-07-14,Gift Card,Delivered,Online
+O000803,C0489,2025-09-03,Debit Card,Shipped,Store
+O000804,C0276,2025-11-12,Gift Card,Returned,Online
+O000805,C0163,2025-08-27,Shop Pay,Delivered,Online
+O000806,C0240,2025-07-17,Shop Pay,Delivered,Store
+O000807,C0411,2025-11-04,Shop Pay,Delivered,Store
+O000808,C0149,2026-05-19,Credit Card,Processing,Store
+O000809,C0436,2026-06-14,PayPal,Processing,Store
+O000810,C0260,2026-04-29,Debit Card,Returned,Online
+O000811,C0310,2026-06-14,Shop Pay,Delivered,Online
+O000812,C0118,2025-10-31,Debit Card,Delivered,Online
+O000813,C0245,2025-08-22,PayPal,Cancelled,Store
+O000814,C0143,2026-06-03,Credit Card,Processing,Store
+O000815,C0012,2026-01-24,Gift Card,Cancelled,Online
+O000816,C0021,2026-01-25,Credit Card,Cancelled,Store
+O000817,C0400,2026-05-26,PayPal,Cancelled,Online
+O000818,C0057,2026-05-23,Gift Card,Returned,Store
+O000819,C0338,2026-06-06,Shop Pay,Cancelled,Online
+O000820,C0085,2025-07-29,Credit Card,Processing,Store
+O000821,C0156,2025-11-13,PayPal,Delivered,Store
+O000822,C0190,2026-07-06,Gift Card,Cancelled,Online
+O000823,C0141,2026-03-13,Gift Card,Processing,Store
+O000824,C0306,2025-11-11,Shop Pay,Shipped,Store
+O000825,C0183,2025-08-22,Debit Card,Shipped,Store
+O000826,C0195,2025-12-01,Debit Card,Shipped,Online
+O000827,C0288,2026-07-07,Gift Card,Delivered,Store
+O000828,C0433,2025-12-26,Debit Card,Returned,Online
+O000829,C0010,2026-02-18,Shop Pay,Returned,Online
+O000830,C0028,2026-02-14,Credit Card,Delivered,Store
+O000831,C0057,2026-04-09,Shop Pay,Cancelled,Store
+O000832,C0327,2026-05-26,Debit Card,Processing,Store
+O000833,C0187,2026-06-03,PayPal,Returned,Online
+O000834,C0084,2025-12-21,Credit Card,Cancelled,Store
+O000835,C0058,2025-11-19,Gift Card,Returned,Online
+O000836,C0303,2025-12-14,Gift Card,Shipped,Store
+O000837,C0091,2026-03-16,Gift Card,Returned,Store
+O000838,C0431,2026-01-04,PayPal,Shipped,Store
+O000839,C0201,2025-10-18,Shop Pay,Shipped,Store
+O000840,C0415,2026-05-20,PayPal,Cancelled,Online
+O000841,C0012,2026-01-01,Shop Pay,Returned,Store
+O000842,C0297,2026-04-09,Credit Card,Returned,Store
+O000843,C0141,2026-01-01,Shop Pay,Cancelled,Store
+O000844,C0095,2025-12-25,Shop Pay,Shipped,Online
+O000845,C0132,2025-12-20,Shop Pay,Shipped,Online
+O000846,C0112,2025-09-09,PayPal,Cancelled,Online
+O000847,C0142,2025-08-14,PayPal,Cancelled,Store
+O000848,C0410,2026-06-04,Shop Pay,Returned,Store
+O000849,C0199,2025-09-11,Debit Card,Delivered,Online
+O000850,C0192,2026-01-26,Shop Pay,Cancelled,Store
+O000851,C0135,2026-03-09,Gift Card,Returned,Online
+O000852,C0463,2026-04-23,Debit Card,Delivered,Online
+O000853,C0153,2026-05-24,Gift Card,Shipped,Store
+O000854,C0161,2025-08-19,Shop Pay,Processing,Store
+O000855,C0200,2025-10-17,Gift Card,Returned,Online
+O000856,C0408,2025-10-19,Gift Card,Returned,Online
+O000857,C0285,2025-10-12,Credit Card,Returned,Store
+O000858,C0417,2026-04-05,PayPal,Delivered,Store
+O000859,C0017,2025-10-16,Gift Card,Cancelled,Online
+O000860,C0237,2025-09-29,Debit Card,Returned,Online
+O000861,C0347,2026-02-07,Shop Pay,Returned,Online
+O000862,C0459,2026-04-02,Shop Pay,Shipped,Store
+O000863,C0191,2026-04-27,Debit Card,Shipped,Store
+O000864,C0065,2026-01-03,Debit Card,Processing,Store
+O000865,C0160,2026-02-07,Credit Card,Returned,Store
+O000866,C0327,2026-01-12,Credit Card,Delivered,Store
+O000867,C0312,2026-05-01,Gift Card,Shipped,Online
+O000868,C0402,2025-11-23,Gift Card,Cancelled,Online
+O000869,C0299,2026-05-18,Debit Card,Processing,Online
+O000870,C0182,2026-06-03,PayPal,Processing,Online
+O000871,C0036,2026-04-12,PayPal,Delivered,Online
+O000872,C0166,2025-11-02,Debit Card,Shipped,Store
+O000873,C0058,2025-07-16,PayPal,Shipped,Online
+O000874,C0375,2026-06-30,Shop Pay,Processing,Store
+O000875,C0015,2026-06-16,Debit Card,Delivered,Store
+O000876,C0391,2026-04-19,Shop Pay,Processing,Store
+O000877,C0398,2026-06-24,Shop Pay,Processing,Store
+O000878,C0060,2026-01-27,Debit Card,Shipped,Online
+O000879,C0054,2025-12-24,Credit Card,Cancelled,Store
+O000880,C0425,2025-07-28,Credit Card,Returned,Online
+O000881,C0160,2026-01-30,Debit Card,Shipped,Store
+O000882,C0270,2025-11-06,PayPal,Delivered,Online
+O000883,C0081,2025-12-08,PayPal,Processing,Online
+O000884,C0248,2025-11-08,Gift Card,Shipped,Online
+O000885,C0322,2025-12-23,Debit Card,Returned,Store
+O000886,C0440,2025-10-19,Credit Card,Shipped,Store
+O000887,C0257,2026-05-13,Debit Card,Delivered,Store
+O000888,C0359,2025-08-29,Debit Card,Processing,Store
+O000889,C0450,2025-12-27,Debit Card,Returned,Online
+O000890,C0011,2026-02-09,Shop Pay,Returned,Online
+O000891,C0014,2025-09-10,Shop Pay,Returned,Store
+O000892,C0319,2025-07-19,Shop Pay,Delivered,Online
+O000893,C0218,2025-12-21,PayPal,Shipped,Store
+O000894,C0047,2026-03-03,Gift Card,Cancelled,Store
+O000895,C0084,2025-07-18,PayPal,Processing,Store
+O000896,C0115,2025-10-11,Credit Card,Processing,Store
+O000897,C0343,2025-09-06,Credit Card,Delivered,Online
+O000898,C0240,2026-03-20,Credit Card,Delivered,Store
+O000899,C0400,2025-11-25,Credit Card,Cancelled,Online
+O000900,C0380,2025-08-08,Credit Card,Cancelled,Online
+O000901,C0205,2025-10-15,Credit Card,Shipped,Store
+O000902,C0287,2026-01-08,Shop Pay,Returned,Store
+O000903,C0043,2025-09-19,Credit Card,Processing,Online
+O000904,C0483,2026-03-27,PayPal,Delivered,Store
+O000905,C0086,2025-12-09,PayPal,Processing,Store
+O000906,C0085,2025-09-27,PayPal,Shipped,Online
+O000907,C0263,2025-07-29,Credit Card,Cancelled,Online
+O000908,C0207,2026-06-06,Shop Pay,Processing,Store
+O000909,C0334,2026-02-04,Debit Card,Returned,Online
+O000910,C0104,2025-10-02,Gift Card,Shipped,Online
+O000911,C0401,2026-06-04,Gift Card,Returned,Store
+O000912,C0173,2025-08-28,PayPal,Returned,Online
+O000913,C0432,2026-05-08,Credit Card,Delivered,Store
+O000914,C0046,2026-04-21,Debit Card,Shipped,Online
+O000915,C0364,2025-08-03,Debit Card,Returned,Store
+O000916,C0316,2026-05-14,Shop Pay,Shipped,Online
+O000917,C0189,2025-10-05,Debit Card,Delivered,Online
+O000918,C0124,2025-07-19,Gift Card,Returned,Store
+O000919,C0167,2025-08-07,Gift Card,Returned,Store
+O000920,C0097,2025-12-04,Gift Card,Processing,Store
+O000921,C0211,2026-01-14,Shop Pay,Cancelled,Store
+O000922,C0493,2025-10-17,PayPal,Returned,Store
+O000923,C0039,2025-11-10,PayPal,Returned,Online
+O000924,C0488,2025-08-17,Gift Card,Processing,Store
+O000925,C0411,2025-07-23,PayPal,Processing,Store
+O000926,C0491,2026-01-11,Debit Card,Cancelled,Store
+O000927,C0082,2026-05-07,PayPal,Returned,Online
+O000928,C0436,2026-06-01,PayPal,Delivered,Online
+O000929,C0029,2025-07-25,Shop Pay,Returned,Store
+O000930,C0063,2025-07-22,PayPal,Processing,Store
+O000931,C0098,2025-07-27,Gift Card,Delivered,Store
+O000932,C0291,2025-08-02,Debit Card,Returned,Online
+O000933,C0466,2025-11-23,Shop Pay,Delivered,Online
+O000934,C0053,2025-10-20,PayPal,Shipped,Store
+O000935,C0282,2026-07-12,Debit Card,Cancelled,Online
+O000936,C0156,2026-01-04,PayPal,Cancelled,Online
+O000937,C0124,2026-01-01,Debit Card,Cancelled,Online
+O000938,C0480,2025-12-12,Gift Card,Cancelled,Online
+O000939,C0159,2026-05-23,Debit Card,Cancelled,Online
+O000940,C0392,2025-08-12,PayPal,Cancelled,Online
+O000941,C0177,2025-10-13,Gift Card,Delivered,Store
+O000942,C0291,2026-06-02,Credit Card,Cancelled,Online
+O000943,C0158,2026-03-30,Gift Card,Delivered,Store
+O000944,C0327,2025-07-31,Shop Pay,Shipped,Online
+O000945,C0322,2026-03-19,PayPal,Shipped,Online
+O000946,C0498,2026-04-05,Shop Pay,Returned,Store
+O000947,C0248,2025-12-10,Gift Card,Delivered,Store
+O000948,C0252,2025-10-11,PayPal,Delivered,Online
+O000949,C0254,2025-07-23,Gift Card,Returned,Online
+O000950,C0316,2026-04-01,Gift Card,Shipped,Store
+O000951,C0013,2025-10-20,PayPal,Processing,Store
+O000952,C0190,2025-12-30,Credit Card,Cancelled,Online
+O000953,C0473,2026-05-13,Credit Card,Delivered,Store
+O000954,C0024,2025-09-08,Credit Card,Delivered,Store
+O000955,C0079,2026-04-08,Debit Card,Delivered,Online
+O000956,C0122,2026-02-15,Gift Card,Shipped,Online
+O000957,C0460,2025-09-25,Shop Pay,Cancelled,Online
+O000958,C0077,2025-11-11,Gift Card,Delivered,Store
+O000959,C0136,2026-01-06,Shop Pay,Cancelled,Online
+O000960,C0048,2025-09-28,Debit Card,Shipped,Store
+O000961,C0172,2026-04-21,Gift Card,Delivered,Online
+O000962,C0281,2026-03-26,Credit Card,Returned,Store
+O000963,C0214,2026-06-04,Credit Card,Delivered,Store
+O000964,C0059,2026-04-16,Credit Card,Returned,Online
+O000965,C0361,2026-01-24,Shop Pay,Cancelled,Store
+O000966,C0217,2026-01-21,Debit Card,Cancelled,Store
+O000967,C0316,2026-03-09,Credit Card,Returned,Store
+O000968,C0064,2026-01-04,Shop Pay,Delivered,Store
+O000969,C0234,2026-04-06,Debit Card,Cancelled,Online
+O000970,C0112,2025-08-13,PayPal,Delivered,Online
+O000971,C0214,2026-07-04,Debit Card,Delivered,Online
+O000972,C0129,2026-01-14,Gift Card,Shipped,Store
+O000973,C0211,2026-03-31,Credit Card,Shipped,Online
+O000974,C0084,2026-06-02,Debit Card,Returned,Online
+O000975,C0307,2026-04-05,PayPal,Returned,Store
+O000976,C0201,2025-10-11,Gift Card,Cancelled,Online
+O000977,C0330,2026-05-30,Credit Card,Delivered,Online
+O000978,C0006,2026-02-21,Credit Card,Shipped,Online
+O000979,C0177,2025-07-25,Gift Card,Delivered,Online
+O000980,C0441,2026-03-13,Gift Card,Processing,Store
+O000981,C0435,2025-11-12,Debit Card,Returned,Online
+O000982,C0155,2026-04-14,PayPal,Delivered,Store
+O000983,C0079,2025-12-04,Gift Card,Returned,Store
+O000984,C0309,2025-12-03,Gift Card,Cancelled,Store
+O000985,C0182,2025-12-16,Debit Card,Cancelled,Store
+O000986,C0454,2025-09-10,Shop Pay,Delivered,Online
+O000987,C0130,2025-08-20,Debit Card,Returned,Store
+O000988,C0401,2025-08-19,Debit Card,Shipped,Store
+O000989,C0438,2025-10-17,Debit Card,Shipped,Online
+O000990,C0123,2026-06-20,PayPal,Processing,Online
+O000991,C0006,2026-04-05,Gift Card,Cancelled,Store
+O000992,C0448,2025-11-02,PayPal,Shipped,Online
+O000993,C0201,2026-04-26,PayPal,Processing,Online
+O000994,C0474,2025-10-01,Gift Card,Processing,Online
+O000995,C0238,2026-02-19,Gift Card,Returned,Store
+O000996,C0015,2026-07-08,Debit Card,Shipped,Store
+O000997,C0269,2026-06-09,Debit Card,Processing,Online
+O000998,C0299,2025-07-30,PayPal,Processing,Store
+O000999,C0177,2026-02-07,Debit Card,Cancelled,Store
+O001000,C0404,2025-08-03,Gift Card,Cancelled,Online
